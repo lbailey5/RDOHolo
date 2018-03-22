@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>FSO-PF0UR271</Machine>
-    <WindowsUser>BAIL8348</WindowsUser>
+    <Machine>FSO-PF11253K</Machine>
+    <WindowsUser>KELL3786</WindowsUser>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
     <TargetOsVersion>10.0</TargetOsVersion>
     <TargetOsDescription>Windows 10.0</TargetOsDescription>
@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>e5ec2d12-bef8-49f9-919d-32456d7bf7e6</PackageIdentityName>
     <PackageIdentityPublisher>CN=DefaultCompany</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Development\Unity\DevHoloTour\App\DevHoloTour\obj\x86\Release\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\obj\x86\Release\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,8 +18,8 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Development\Unity\DevHoloTour\App\DevHoloTour\bin\x86\Release\AppX</LayoutDir>
-    <RegisteredManifestChecksum>DD476D8464454B8C6DBF0F7149A4C6A692CFFA22DB6677BEF2B26AFCEB763645</RegisteredManifestChecksum>
+    <LayoutDir>C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\bin\x86\Release\AppX</LayoutDir>
+    <RegisteredManifestChecksum>8ADB26408DA8CF0D73DA25570F1E0FBA02326FEBB167631E055A9DF306D9A0D4</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>DevHoloTour_1.0.0.0_x86__pzq3xp76mxafg</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>DevHoloTour_pzq3xp76mxafg!App</RegisteredUserModeAppID>
     <RegisteredPackageID>DevHoloTour</RegisteredPackageID>
@@ -28,438 +28,438 @@
     <JitOptimizationSuppressed>False</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\bin\x86\Release\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\bin\x86\Release\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-21T20:10:53.912</Modified>
+      <Modified>2018-03-22T16:54:45.887</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\bin\x86\Release\DevHoloTour.exe">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\bin\x86\Release\DevHoloTour.exe">
       <PackagePath>entrypoint\DevHoloTour.exe</PackagePath>
-      <Modified>2018-03-21T20:10:32.537</Modified>
+      <Modified>2018-03-22T16:54:23.594</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\microsoft.applicationinsights\1.0.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\microsoft.applicationinsights\1.0.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.dll">
       <PackagePath>Microsoft.ApplicationInsights.dll</PackagePath>
       <Modified>2015-06-17T20:46:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\microsoft.applicationinsights.persistencechannel\1.0.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.PersistenceChannel.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\microsoft.applicationinsights.persistencechannel\1.0.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.PersistenceChannel.dll">
       <PackagePath>Microsoft.ApplicationInsights.PersistenceChannel.dll</PackagePath>
       <Modified>2015-06-17T20:57:38.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\microsoft.applicationinsights.windowsapps\1.0.0\lib\win81\Microsoft.ApplicationInsights.Extensibility.Windows.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\microsoft.applicationinsights.windowsapps\1.0.0\lib\win81\Microsoft.ApplicationInsights.Extensibility.Windows.dll">
       <PackagePath>Microsoft.ApplicationInsights.Extensibility.Windows.dll</PackagePath>
       <Modified>2015-06-17T21:13:14.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\microsoft.csharp\4.0.0\lib\netcore50\Microsoft.CSharp.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\microsoft.csharp\4.0.0\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
       <Modified>2015-07-23T04:06:34.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\microsoft.netcore.portable.compatibility\1.0.0\lib\netcore50\System.ComponentModel.DataAnnotations.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\microsoft.netcore.portable.compatibility\1.0.0\lib\netcore50\System.ComponentModel.DataAnnotations.dll">
       <PackagePath>System.ComponentModel.DataAnnotations.dll</PackagePath>
       <Modified>2015-07-23T04:06:52.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\microsoft.netcore.portable.compatibility\1.0.0\lib\netcore50\System.Core.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\microsoft.netcore.portable.compatibility\1.0.0\lib\netcore50\System.Core.dll">
       <PackagePath>System.Core.dll</PackagePath>
       <Modified>2015-07-23T04:06:52.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\microsoft.netcore.portable.compatibility\1.0.0\lib\netcore50\System.Net.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\microsoft.netcore.portable.compatibility\1.0.0\lib\netcore50\System.Net.dll">
       <PackagePath>System.Net.dll</PackagePath>
       <Modified>2015-07-23T04:06:52.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\microsoft.netcore.portable.compatibility\1.0.0\lib\netcore50\System.Numerics.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\microsoft.netcore.portable.compatibility\1.0.0\lib\netcore50\System.Numerics.dll">
       <PackagePath>System.Numerics.dll</PackagePath>
       <Modified>2015-07-23T04:06:52.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\microsoft.netcore.portable.compatibility\1.0.0\lib\netcore50\System.Runtime.Serialization.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\microsoft.netcore.portable.compatibility\1.0.0\lib\netcore50\System.Runtime.Serialization.dll">
       <PackagePath>System.Runtime.Serialization.dll</PackagePath>
       <Modified>2015-07-23T04:06:52.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\microsoft.netcore.portable.compatibility\1.0.0\lib\netcore50\System.ServiceModel.Web.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\microsoft.netcore.portable.compatibility\1.0.0\lib\netcore50\System.ServiceModel.Web.dll">
       <PackagePath>System.ServiceModel.Web.dll</PackagePath>
       <Modified>2015-07-23T04:06:52.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\microsoft.netcore.portable.compatibility\1.0.0\lib\netcore50\System.ServiceModel.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\microsoft.netcore.portable.compatibility\1.0.0\lib\netcore50\System.ServiceModel.dll">
       <PackagePath>System.ServiceModel.dll</PackagePath>
       <Modified>2015-07-23T04:06:52.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\microsoft.netcore.portable.compatibility\1.0.0\lib\netcore50\System.Windows.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\microsoft.netcore.portable.compatibility\1.0.0\lib\netcore50\System.Windows.dll">
       <PackagePath>System.Windows.dll</PackagePath>
       <Modified>2015-07-23T04:06:52.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\microsoft.netcore.portable.compatibility\1.0.0\lib\netcore50\System.Xml.Linq.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\microsoft.netcore.portable.compatibility\1.0.0\lib\netcore50\System.Xml.Linq.dll">
       <PackagePath>System.Xml.Linq.dll</PackagePath>
       <Modified>2015-07-23T04:06:52.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\microsoft.netcore.portable.compatibility\1.0.0\lib\netcore50\System.Xml.Serialization.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\microsoft.netcore.portable.compatibility\1.0.0\lib\netcore50\System.Xml.Serialization.dll">
       <PackagePath>System.Xml.Serialization.dll</PackagePath>
       <Modified>2015-07-23T04:06:52.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\microsoft.netcore.portable.compatibility\1.0.0\lib\netcore50\System.Xml.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\microsoft.netcore.portable.compatibility\1.0.0\lib\netcore50\System.Xml.dll">
       <PackagePath>System.Xml.dll</PackagePath>
       <Modified>2015-07-23T04:06:52.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\microsoft.netcore.portable.compatibility\1.0.0\lib\netcore50\System.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\microsoft.netcore.portable.compatibility\1.0.0\lib\netcore50\System.dll">
       <PackagePath>System.dll</PackagePath>
       <Modified>2015-07-23T04:06:52.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\microsoft.visualbasic\10.0.0\lib\netcore50\Microsoft.VisualBasic.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\microsoft.visualbasic\10.0.0\lib\netcore50\Microsoft.VisualBasic.dll">
       <PackagePath>Microsoft.VisualBasic.dll</PackagePath>
       <Modified>2015-07-23T04:07:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\microsoft.win32.primitives\4.0.0\lib\dotnet\Microsoft.Win32.Primitives.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\microsoft.win32.primitives\4.0.0\lib\dotnet\Microsoft.Win32.Primitives.dll">
       <PackagePath>Microsoft.Win32.Primitives.dll</PackagePath>
       <Modified>2015-07-23T04:07:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.appcontext\4.0.0\lib\netcore50\System.AppContext.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.appcontext\4.0.0\lib\netcore50\System.AppContext.dll">
       <PackagePath>System.AppContext.dll</PackagePath>
       <Modified>2015-07-23T04:07:16.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.collections\4.0.10\lib\netcore50\System.Collections.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.collections\4.0.10\lib\netcore50\System.Collections.dll">
       <PackagePath>System.Collections.dll</PackagePath>
       <Modified>2015-07-23T04:07:22.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.collections.concurrent\4.0.10\lib\dotnet\System.Collections.Concurrent.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.collections.concurrent\4.0.10\lib\dotnet\System.Collections.Concurrent.dll">
       <PackagePath>System.Collections.Concurrent.dll</PackagePath>
       <Modified>2015-07-23T04:07:16.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.collections.immutable\1.1.37\lib\dotnet\System.Collections.Immutable.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.collections.immutable\1.1.37\lib\dotnet\System.Collections.Immutable.dll">
       <PackagePath>System.Collections.Immutable.dll</PackagePath>
       <Modified>2015-07-23T04:07:18.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.collections.nongeneric\4.0.0\lib\dotnet\System.Collections.NonGeneric.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.collections.nongeneric\4.0.0\lib\dotnet\System.Collections.NonGeneric.dll">
       <PackagePath>System.Collections.NonGeneric.dll</PackagePath>
       <Modified>2015-07-23T04:07:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.collections.specialized\4.0.0\lib\dotnet\System.Collections.Specialized.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.collections.specialized\4.0.0\lib\dotnet\System.Collections.Specialized.dll">
       <PackagePath>System.Collections.Specialized.dll</PackagePath>
       <Modified>2015-07-23T04:07:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.componentmodel\4.0.0\lib\netcore50\System.ComponentModel.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.componentmodel\4.0.0\lib\netcore50\System.ComponentModel.dll">
       <PackagePath>System.ComponentModel.dll</PackagePath>
       <Modified>2015-07-23T04:07:28.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.componentmodel.annotations\4.0.10\lib\dotnet\System.ComponentModel.Annotations.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.componentmodel.annotations\4.0.10\lib\dotnet\System.ComponentModel.Annotations.dll">
       <PackagePath>System.ComponentModel.Annotations.dll</PackagePath>
       <Modified>2015-07-23T04:07:26.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.componentmodel.eventbasedasync\4.0.10\lib\dotnet\System.ComponentModel.EventBasedAsync.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.componentmodel.eventbasedasync\4.0.10\lib\dotnet\System.ComponentModel.EventBasedAsync.dll">
       <PackagePath>System.ComponentModel.EventBasedAsync.dll</PackagePath>
       <Modified>2015-07-23T04:07:26.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.data.common\4.0.0\lib\dotnet\System.Data.Common.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.data.common\4.0.0\lib\dotnet\System.Data.Common.dll">
       <PackagePath>System.Data.Common.dll</PackagePath>
       <Modified>2015-07-23T04:07:34.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.diagnostics.contracts\4.0.0\lib\netcore50\System.Diagnostics.Contracts.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.diagnostics.contracts\4.0.0\lib\netcore50\System.Diagnostics.Contracts.dll">
       <PackagePath>System.Diagnostics.Contracts.dll</PackagePath>
       <Modified>2015-07-23T04:07:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.diagnostics.debug\4.0.10\lib\netcore50\System.Diagnostics.Debug.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.diagnostics.debug\4.0.10\lib\netcore50\System.Diagnostics.Debug.dll">
       <PackagePath>System.Diagnostics.Debug.dll</PackagePath>
       <Modified>2015-07-23T04:07:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.diagnostics.stacktrace\4.0.0\lib\netcore50\System.Diagnostics.StackTrace.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.diagnostics.stacktrace\4.0.0\lib\netcore50\System.Diagnostics.StackTrace.dll">
       <PackagePath>System.Diagnostics.StackTrace.dll</PackagePath>
       <Modified>2015-07-23T04:07:46.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.diagnostics.tools\4.0.0\lib\netcore50\System.Diagnostics.Tools.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.diagnostics.tools\4.0.0\lib\netcore50\System.Diagnostics.Tools.dll">
       <PackagePath>System.Diagnostics.Tools.dll</PackagePath>
       <Modified>2015-07-23T04:07:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.diagnostics.tracing\4.0.20\lib\netcore50\System.Diagnostics.Tracing.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.diagnostics.tracing\4.0.20\lib\netcore50\System.Diagnostics.Tracing.dll">
       <PackagePath>System.Diagnostics.Tracing.dll</PackagePath>
       <Modified>2015-07-23T04:07:54.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.dynamic.runtime\4.0.10\lib\netcore50\System.Dynamic.Runtime.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.dynamic.runtime\4.0.10\lib\netcore50\System.Dynamic.Runtime.dll">
       <PackagePath>System.Dynamic.Runtime.dll</PackagePath>
       <Modified>2015-07-23T04:07:54.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.globalization\4.0.10\lib\netcore50\System.Globalization.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.globalization\4.0.10\lib\netcore50\System.Globalization.dll">
       <PackagePath>System.Globalization.dll</PackagePath>
       <Modified>2015-07-23T04:08:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.globalization.calendars\4.0.0\lib\netcore50\System.Globalization.Calendars.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.globalization.calendars\4.0.0\lib\netcore50\System.Globalization.Calendars.dll">
       <PackagePath>System.Globalization.Calendars.dll</PackagePath>
       <Modified>2015-07-23T04:07:58.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.globalization.extensions\4.0.0\lib\dotnet\System.Globalization.Extensions.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.globalization.extensions\4.0.0\lib\dotnet\System.Globalization.Extensions.dll">
       <PackagePath>System.Globalization.Extensions.dll</PackagePath>
       <Modified>2015-07-23T04:07:58.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.io\4.0.10\lib\netcore50\System.IO.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.io\4.0.10\lib\netcore50\System.IO.dll">
       <PackagePath>System.IO.dll</PackagePath>
       <Modified>2015-07-23T04:08:22.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.io.compression\4.0.0\lib\netcore50\System.IO.Compression.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.io.compression\4.0.0\lib\netcore50\System.IO.Compression.dll">
       <PackagePath>System.IO.Compression.dll</PackagePath>
       <Modified>2015-07-23T04:08:04.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.io.compression.clrcompression-x86\4.0.0\runtimes\win10-x86\native\ClrCompression.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.io.compression.clrcompression-x86\4.0.0\runtimes\win10-x86\native\ClrCompression.dll">
       <PackagePath>ClrCompression.dll</PackagePath>
       <Modified>2015-07-23T04:08:02.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.io.compression.zipfile\4.0.0\lib\dotnet\System.IO.Compression.ZipFile.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.io.compression.zipfile\4.0.0\lib\dotnet\System.IO.Compression.ZipFile.dll">
       <PackagePath>System.IO.Compression.ZipFile.dll</PackagePath>
       <Modified>2015-07-23T04:08:06.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.io.filesystem\4.0.0\lib\netcore50\System.IO.FileSystem.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.io.filesystem\4.0.0\lib\netcore50\System.IO.FileSystem.dll">
       <PackagePath>System.IO.FileSystem.dll</PackagePath>
       <Modified>2015-07-23T04:08:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.io.filesystem.primitives\4.0.0\lib\dotnet\System.IO.FileSystem.Primitives.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.io.filesystem.primitives\4.0.0\lib\dotnet\System.IO.FileSystem.Primitives.dll">
       <PackagePath>System.IO.FileSystem.Primitives.dll</PackagePath>
       <Modified>2015-07-23T04:08:14.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.io.isolatedstorage\4.0.0\lib\netcore50\System.IO.IsolatedStorage.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.io.isolatedstorage\4.0.0\lib\netcore50\System.IO.IsolatedStorage.dll">
       <PackagePath>System.IO.IsolatedStorage.dll</PackagePath>
       <Modified>2015-07-23T04:08:18.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.io.unmanagedmemorystream\4.0.0\lib\dotnet\System.IO.UnmanagedMemoryStream.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.io.unmanagedmemorystream\4.0.0\lib\dotnet\System.IO.UnmanagedMemoryStream.dll">
       <PackagePath>System.IO.UnmanagedMemoryStream.dll</PackagePath>
       <Modified>2015-07-23T04:08:26.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.linq\4.0.0\lib\netcore50\System.Linq.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.linq\4.0.0\lib\netcore50\System.Linq.dll">
       <PackagePath>System.Linq.dll</PackagePath>
       <Modified>2015-07-23T04:08:30.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.linq.expressions\4.0.10\lib\netcore50\System.Linq.Expressions.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.linq.expressions\4.0.10\lib\netcore50\System.Linq.Expressions.dll">
       <PackagePath>System.Linq.Expressions.dll</PackagePath>
       <Modified>2015-07-23T04:08:28.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.linq.parallel\4.0.0\lib\netcore50\System.Linq.Parallel.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.linq.parallel\4.0.0\lib\netcore50\System.Linq.Parallel.dll">
       <PackagePath>System.Linq.Parallel.dll</PackagePath>
       <Modified>2015-07-23T04:08:32.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.linq.queryable\4.0.0\lib\netcore50\System.Linq.Queryable.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.linq.queryable\4.0.0\lib\netcore50\System.Linq.Queryable.dll">
       <PackagePath>System.Linq.Queryable.dll</PackagePath>
       <Modified>2015-07-23T04:08:34.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.net.http\4.0.0\lib\netcore50\System.Net.Http.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.net.http\4.0.0\lib\netcore50\System.Net.Http.dll">
       <PackagePath>System.Net.Http.dll</PackagePath>
       <Modified>2015-07-23T04:08:36.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.net.http.rtc\4.0.0\lib\netcore50\System.Net.Http.Rtc.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.net.http.rtc\4.0.0\lib\netcore50\System.Net.Http.Rtc.dll">
       <PackagePath>System.Net.Http.Rtc.dll</PackagePath>
       <Modified>2015-07-23T04:08:38.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.net.networkinformation\4.0.0\lib\netcore50\System.Net.NetworkInformation.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.net.networkinformation\4.0.0\lib\netcore50\System.Net.NetworkInformation.dll">
       <PackagePath>System.Net.NetworkInformation.dll</PackagePath>
       <Modified>2015-07-23T04:08:44.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.net.primitives\4.0.10\lib\netcore50\System.Net.Primitives.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.net.primitives\4.0.10\lib\netcore50\System.Net.Primitives.dll">
       <PackagePath>System.Net.Primitives.dll</PackagePath>
       <Modified>2015-07-23T04:08:48.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.net.requests\4.0.10\lib\dotnet\System.Net.Requests.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.net.requests\4.0.10\lib\dotnet\System.Net.Requests.dll">
       <PackagePath>System.Net.Requests.dll</PackagePath>
       <Modified>2015-07-23T04:08:48.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.net.sockets\4.0.0\lib\netcore50\System.Net.Sockets.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.net.sockets\4.0.0\lib\netcore50\System.Net.Sockets.dll">
       <PackagePath>System.Net.Sockets.dll</PackagePath>
       <Modified>2015-07-23T04:08:52.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.net.webheadercollection\4.0.0\lib\dotnet\System.Net.WebHeaderCollection.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.net.webheadercollection\4.0.0\lib\dotnet\System.Net.WebHeaderCollection.dll">
       <PackagePath>System.Net.WebHeaderCollection.dll</PackagePath>
       <Modified>2015-07-23T04:08:58.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.numerics.vectors\4.1.0\lib\dotnet\System.Numerics.Vectors.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.numerics.vectors\4.1.0\lib\dotnet\System.Numerics.Vectors.dll">
       <PackagePath>System.Numerics.Vectors.dll</PackagePath>
       <Modified>2015-07-23T04:09:04.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.numerics.vectors.windowsruntime\4.0.0\lib\dotnet\System.Numerics.Vectors.WindowsRuntime.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.numerics.vectors.windowsruntime\4.0.0\lib\dotnet\System.Numerics.Vectors.WindowsRuntime.dll">
       <PackagePath>System.Numerics.Vectors.WindowsRuntime.dll</PackagePath>
       <Modified>2015-07-23T04:09:04.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.objectmodel\4.0.10\lib\dotnet\System.ObjectModel.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.objectmodel\4.0.10\lib\dotnet\System.ObjectModel.dll">
       <PackagePath>System.ObjectModel.dll</PackagePath>
       <Modified>2015-07-23T04:09:06.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.private.datacontractserialization\4.0.0\lib\netcore50\System.Private.DataContractSerialization.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.private.datacontractserialization\4.0.0\lib\netcore50\System.Private.DataContractSerialization.dll">
       <PackagePath>System.Private.DataContractSerialization.dll</PackagePath>
       <Modified>2015-07-23T04:09:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.private.networking\4.0.0\lib\netcore50\System.Private.Networking.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.private.networking\4.0.0\lib\netcore50\System.Private.Networking.dll">
       <PackagePath>System.Private.Networking.dll</PackagePath>
       <Modified>2015-07-23T04:09:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.private.servicemodel\4.0.0\lib\netcore50\System.Private.ServiceModel.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.private.servicemodel\4.0.0\lib\netcore50\System.Private.ServiceModel.dll">
       <PackagePath>System.Private.ServiceModel.dll</PackagePath>
       <Modified>2015-07-23T04:09:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.private.uri\4.0.0\lib\netcore50\System.Private.Uri.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.private.uri\4.0.0\lib\netcore50\System.Private.Uri.dll">
       <PackagePath>System.Private.Uri.dll</PackagePath>
       <Modified>2015-07-23T04:09:14.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.reflection\4.0.10\lib\netcore50\System.Reflection.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.reflection\4.0.10\lib\netcore50\System.Reflection.dll">
       <PackagePath>System.Reflection.dll</PackagePath>
       <Modified>2015-07-23T04:09:32.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.reflection.context\4.0.0\lib\netcore50\System.Reflection.Context.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.reflection.context\4.0.0\lib\netcore50\System.Reflection.Context.dll">
       <PackagePath>System.Reflection.Context.dll</PackagePath>
       <Modified>2015-07-23T04:09:16.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.reflection.dispatchproxy\4.0.0\lib\netcore50\System.Reflection.DispatchProxy.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.reflection.dispatchproxy\4.0.0\lib\netcore50\System.Reflection.DispatchProxy.dll">
       <PackagePath>System.Reflection.DispatchProxy.dll</PackagePath>
       <Modified>2015-07-23T04:09:18.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.reflection.emit\4.0.0\lib\netcore50\System.Reflection.Emit.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.reflection.emit\4.0.0\lib\netcore50\System.Reflection.Emit.dll">
       <PackagePath>System.Reflection.Emit.dll</PackagePath>
       <Modified>2015-07-23T04:09:26.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.reflection.emit.ilgeneration\4.0.0\lib\netcore50\System.Reflection.Emit.ILGeneration.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.reflection.emit.ilgeneration\4.0.0\lib\netcore50\System.Reflection.Emit.ILGeneration.dll">
       <PackagePath>System.Reflection.Emit.ILGeneration.dll</PackagePath>
       <Modified>2015-07-23T04:09:22.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.reflection.emit.lightweight\4.0.0\lib\netcore50\System.Reflection.Emit.Lightweight.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.reflection.emit.lightweight\4.0.0\lib\netcore50\System.Reflection.Emit.Lightweight.dll">
       <PackagePath>System.Reflection.Emit.Lightweight.dll</PackagePath>
       <Modified>2015-07-23T04:09:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.reflection.extensions\4.0.0\lib\netcore50\System.Reflection.Extensions.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.reflection.extensions\4.0.0\lib\netcore50\System.Reflection.Extensions.dll">
       <PackagePath>System.Reflection.Extensions.dll</PackagePath>
       <Modified>2015-07-23T04:09:28.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.reflection.metadata\1.0.22\lib\dotnet\System.Reflection.Metadata.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.reflection.metadata\1.0.22\lib\dotnet\System.Reflection.Metadata.dll">
       <PackagePath>System.Reflection.Metadata.dll</PackagePath>
       <Modified>2015-07-23T04:09:30.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.reflection.primitives\4.0.0\lib\netcore50\System.Reflection.Primitives.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.reflection.primitives\4.0.0\lib\netcore50\System.Reflection.Primitives.dll">
       <PackagePath>System.Reflection.Primitives.dll</PackagePath>
       <Modified>2015-07-23T04:09:34.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.reflection.typeextensions\4.0.0\lib\netcore50\System.Reflection.TypeExtensions.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.reflection.typeextensions\4.0.0\lib\netcore50\System.Reflection.TypeExtensions.dll">
       <PackagePath>System.Reflection.TypeExtensions.dll</PackagePath>
       <Modified>2015-07-23T04:09:36.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.resources.resourcemanager\4.0.0\lib\netcore50\System.Resources.ResourceManager.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.resources.resourcemanager\4.0.0\lib\netcore50\System.Resources.ResourceManager.dll">
       <PackagePath>System.Resources.ResourceManager.dll</PackagePath>
       <Modified>2015-07-23T04:09:38.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.runtime\4.0.20\lib\netcore50\System.Runtime.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.runtime\4.0.20\lib\netcore50\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
       <Modified>2015-07-23T04:09:54.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.runtime.extensions\4.0.10\lib\netcore50\System.Runtime.Extensions.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.runtime.extensions\4.0.10\lib\netcore50\System.Runtime.Extensions.dll">
       <PackagePath>System.Runtime.Extensions.dll</PackagePath>
       <Modified>2015-07-23T04:09:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.runtime.handles\4.0.0\lib\netcore50\System.Runtime.Handles.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.runtime.handles\4.0.0\lib\netcore50\System.Runtime.Handles.dll">
       <PackagePath>System.Runtime.Handles.dll</PackagePath>
       <Modified>2015-07-23T04:09:44.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.runtime.interopservices\4.0.20\lib\netcore50\System.Runtime.InteropServices.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.runtime.interopservices\4.0.20\lib\netcore50\System.Runtime.InteropServices.dll">
       <PackagePath>System.Runtime.InteropServices.dll</PackagePath>
       <Modified>2015-07-23T04:09:46.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.runtime.interopservices.windowsruntime\4.0.0\lib\netcore50\System.Runtime.InteropServices.WindowsRuntime.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.runtime.interopservices.windowsruntime\4.0.0\lib\netcore50\System.Runtime.InteropServices.WindowsRuntime.dll">
       <PackagePath>System.Runtime.InteropServices.WindowsRuntime.dll</PackagePath>
       <Modified>2015-07-23T04:09:48.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.runtime.numerics\4.0.0\lib\netcore50\System.Runtime.Numerics.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.runtime.numerics\4.0.0\lib\netcore50\System.Runtime.Numerics.dll">
       <PackagePath>System.Runtime.Numerics.dll</PackagePath>
       <Modified>2015-07-23T04:09:52.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.runtime.serialization.json\4.0.0\lib\netcore50\System.Runtime.Serialization.Json.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.runtime.serialization.json\4.0.0\lib\netcore50\System.Runtime.Serialization.Json.dll">
       <PackagePath>System.Runtime.Serialization.Json.dll</PackagePath>
       <Modified>2015-07-23T04:09:58.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.runtime.serialization.primitives\4.0.10\lib\dotnet\System.Runtime.Serialization.Primitives.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.runtime.serialization.primitives\4.0.10\lib\dotnet\System.Runtime.Serialization.Primitives.dll">
       <PackagePath>System.Runtime.Serialization.Primitives.dll</PackagePath>
       <Modified>2015-07-23T04:10:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.runtime.serialization.xml\4.0.10\lib\netcore50\System.Runtime.Serialization.Xml.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.runtime.serialization.xml\4.0.10\lib\netcore50\System.Runtime.Serialization.Xml.dll">
       <PackagePath>System.Runtime.Serialization.Xml.dll</PackagePath>
       <Modified>2015-07-23T04:10:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.runtime.windowsruntime\4.0.10\lib\netcore50\System.Runtime.WindowsRuntime.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.runtime.windowsruntime\4.0.10\lib\netcore50\System.Runtime.WindowsRuntime.dll">
       <PackagePath>System.Runtime.WindowsRuntime.dll</PackagePath>
       <Modified>2015-07-23T04:10:02.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.runtime.windowsruntime.ui.xaml\4.0.0\lib\netcore50\System.Runtime.WindowsRuntime.UI.Xaml.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.runtime.windowsruntime.ui.xaml\4.0.0\lib\netcore50\System.Runtime.WindowsRuntime.UI.Xaml.dll">
       <PackagePath>System.Runtime.WindowsRuntime.UI.Xaml.dll</PackagePath>
       <Modified>2015-07-23T04:10:06.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.security.claims\4.0.0\lib\dotnet\System.Security.Claims.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.security.claims\4.0.0\lib\dotnet\System.Security.Claims.dll">
       <PackagePath>System.Security.Claims.dll</PackagePath>
       <Modified>2015-07-23T04:10:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.security.principal\4.0.0\lib\netcore50\System.Security.Principal.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.security.principal\4.0.0\lib\netcore50\System.Security.Principal.dll">
       <PackagePath>System.Security.Principal.dll</PackagePath>
       <Modified>2015-07-23T04:10:30.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.servicemodel.duplex\4.0.0\lib\netcore50\System.ServiceModel.Duplex.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.servicemodel.duplex\4.0.0\lib\netcore50\System.ServiceModel.Duplex.dll">
       <PackagePath>System.ServiceModel.Duplex.dll</PackagePath>
       <Modified>2015-07-23T04:10:36.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.servicemodel.http\4.0.10\lib\netcore50\System.ServiceModel.Http.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.servicemodel.http\4.0.10\lib\netcore50\System.ServiceModel.Http.dll">
       <PackagePath>System.ServiceModel.Http.dll</PackagePath>
       <Modified>2015-07-23T04:10:38.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.servicemodel.nettcp\4.0.0\lib\netcore50\System.ServiceModel.NetTcp.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.servicemodel.nettcp\4.0.0\lib\netcore50\System.ServiceModel.NetTcp.dll">
       <PackagePath>System.ServiceModel.NetTcp.dll</PackagePath>
       <Modified>2015-07-23T04:10:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.servicemodel.primitives\4.0.0\lib\netcore50\System.ServiceModel.Primitives.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.servicemodel.primitives\4.0.0\lib\netcore50\System.ServiceModel.Primitives.dll">
       <PackagePath>System.ServiceModel.Primitives.dll</PackagePath>
       <Modified>2015-07-23T04:10:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.servicemodel.security\4.0.0\lib\netcore50\System.ServiceModel.Security.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.servicemodel.security\4.0.0\lib\netcore50\System.ServiceModel.Security.dll">
       <PackagePath>System.ServiceModel.Security.dll</PackagePath>
       <Modified>2015-07-23T04:10:44.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.text.encoding\4.0.10\lib\netcore50\System.Text.Encoding.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.text.encoding\4.0.10\lib\netcore50\System.Text.Encoding.dll">
       <PackagePath>System.Text.Encoding.dll</PackagePath>
       <Modified>2015-07-23T04:10:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.text.encoding.codepages\4.0.0\lib\dotnet\System.Text.Encoding.CodePages.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.text.encoding.codepages\4.0.0\lib\dotnet\System.Text.Encoding.CodePages.dll">
       <PackagePath>System.Text.Encoding.CodePages.dll</PackagePath>
       <Modified>2015-07-23T04:10:46.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.text.encoding.extensions\4.0.10\lib\netcore50\System.Text.Encoding.Extensions.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.text.encoding.extensions\4.0.10\lib\netcore50\System.Text.Encoding.Extensions.dll">
       <PackagePath>System.Text.Encoding.Extensions.dll</PackagePath>
       <Modified>2015-07-23T04:10:48.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.text.regularexpressions\4.0.10\lib\dotnet\System.Text.RegularExpressions.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.text.regularexpressions\4.0.10\lib\dotnet\System.Text.RegularExpressions.dll">
       <PackagePath>System.Text.RegularExpressions.dll</PackagePath>
       <Modified>2015-07-23T04:10:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.threading\4.0.10\lib\netcore50\System.Threading.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.threading\4.0.10\lib\netcore50\System.Threading.dll">
       <PackagePath>System.Threading.dll</PackagePath>
       <Modified>2015-07-23T04:10:54.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.threading.overlapped\4.0.0\lib\netcore50\System.Threading.Overlapped.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.threading.overlapped\4.0.0\lib\netcore50\System.Threading.Overlapped.dll">
       <PackagePath>System.Threading.Overlapped.dll</PackagePath>
       <Modified>2015-07-23T04:10:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.threading.tasks\4.0.10\lib\netcore50\System.Threading.Tasks.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.threading.tasks\4.0.10\lib\netcore50\System.Threading.Tasks.dll">
       <PackagePath>System.Threading.Tasks.dll</PackagePath>
       <Modified>2015-07-23T04:10:58.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.threading.tasks.dataflow\4.5.25\lib\dotnet\System.Threading.Tasks.Dataflow.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.threading.tasks.dataflow\4.5.25\lib\dotnet\System.Threading.Tasks.Dataflow.dll">
       <PackagePath>System.Threading.Tasks.Dataflow.dll</PackagePath>
       <Modified>2015-07-23T04:10:58.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.threading.tasks.parallel\4.0.0\lib\netcore50\System.Threading.Tasks.Parallel.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.threading.tasks.parallel\4.0.0\lib\netcore50\System.Threading.Tasks.Parallel.dll">
       <PackagePath>System.Threading.Tasks.Parallel.dll</PackagePath>
       <Modified>2015-07-23T04:11:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.threading.timer\4.0.0\lib\netcore50\System.Threading.Timer.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.threading.timer\4.0.0\lib\netcore50\System.Threading.Timer.dll">
       <PackagePath>System.Threading.Timer.dll</PackagePath>
       <Modified>2015-07-23T04:11:06.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.xml.readerwriter\4.0.10\lib\dotnet\System.Xml.ReaderWriter.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.xml.readerwriter\4.0.10\lib\dotnet\System.Xml.ReaderWriter.dll">
       <PackagePath>System.Xml.ReaderWriter.dll</PackagePath>
       <Modified>2015-07-23T04:11:06.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.xml.xdocument\4.0.10\lib\dotnet\System.Xml.XDocument.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.xml.xdocument\4.0.10\lib\dotnet\System.Xml.XDocument.dll">
       <PackagePath>System.Xml.XDocument.dll</PackagePath>
       <Modified>2015-07-23T04:11:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.xml.xmldocument\4.0.0\lib\dotnet\System.Xml.XmlDocument.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.xml.xmldocument\4.0.0\lib\dotnet\System.Xml.XmlDocument.dll">
       <PackagePath>System.Xml.XmlDocument.dll</PackagePath>
       <Modified>2015-07-23T04:11:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BAIL8348\.nuget\packages\system.xml.xmlserializer\4.0.10\lib\netcore50\System.Xml.XmlSerializer.dll">
+    <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\system.xml.xmlserializer\4.0.10\lib\netcore50\System.Xml.XmlSerializer.dll">
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
       <Modified>2015-07-23T04:11:12.000</Modified>
     </AppxPackagedFile>
@@ -467,7 +467,7 @@
       <PackagePath>UnityEngineProxy.dll</PackagePath>
       <Modified>2018-01-29T21:08:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\Unprocessed\WinRTLegacy.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\Unprocessed\WinRTLegacy.dll">
       <PackagePath>WinRTLegacy.dll</PackagePath>
       <Modified>2018-01-29T21:07:56.000</Modified>
     </AppxPackagedFile>
@@ -499,352 +499,352 @@
       <PackagePath>WinRTBridge.winmd</PackagePath>
       <Modified>2018-01-29T21:09:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\Resource.res">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\Resource.res">
       <PackagePath>Resource.res</PackagePath>
-      <Modified>2018-03-21T20:09:34.340</Modified>
+      <Modified>2018-03-22T16:53:19.151</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-01-29T18:13:46.000</Modified>
+      <Modified>2018-01-29T19:43:06.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-01-29T18:13:46.000</Modified>
+      <Modified>2018-01-29T19:43:06.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-01-29T18:13:46.000</Modified>
+      <Modified>2018-01-29T19:43:06.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-01-29T18:13:46.000</Modified>
+      <Modified>2018-01-29T19:43:06.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-01-29T18:13:46.000</Modified>
+      <Modified>2018-01-29T19:43:06.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-01-29T18:13:46.000</Modified>
+      <Modified>2018-01-29T19:43:06.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2018-01-29T19:43:06.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\PlaneFinding.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\PlaneFinding.dll">
       <PackagePath>PlaneFinding.dll</PackagePath>
-      <Modified>2018-03-07T17:28:46.000</Modified>
+      <Modified>2018-03-21T20:40:31.086</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\MicStreamSelector.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\MicStreamSelector.dll">
       <PackagePath>MicStreamSelector.dll</PackagePath>
-      <Modified>2018-03-07T17:28:45.000</Modified>
+      <Modified>2018-03-21T20:40:28.079</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\GpuTiming.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\GpuTiming.dll">
       <PackagePath>GpuTiming.dll</PackagePath>
-      <Modified>2018-03-07T17:28:46.000</Modified>
+      <Modified>2018-03-21T20:40:35.121</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\SharingClient.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\SharingClient.dll">
       <PackagePath>SharingClient.dll</PackagePath>
-      <Modified>2018-03-07T17:28:46.000</Modified>
+      <Modified>2018-03-21T20:40:29.641</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\SpatialUnderstanding.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\SpatialUnderstanding.dll">
       <PackagePath>SpatialUnderstanding.dll</PackagePath>
-      <Modified>2018-03-07T17:28:46.000</Modified>
+      <Modified>2018-03-21T20:40:31.754</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\Data\boot.config">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\Data\boot.config">
       <PackagePath>Data\boot.config</PackagePath>
-      <Modified>2018-03-21T20:08:36.212</Modified>
+      <Modified>2018-03-22T16:52:11.598</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\Data\globalgamemanagers">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\Data\globalgamemanagers">
       <PackagePath>Data\globalgamemanagers</PackagePath>
-      <Modified>2018-03-21T20:08:32.176</Modified>
+      <Modified>2018-03-22T16:52:09.468</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\Data\level0">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\Data\level0">
       <PackagePath>Data\level0</PackagePath>
-      <Modified>2018-03-21T20:08:30.075</Modified>
+      <Modified>2018-03-22T16:52:07.269</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\Data\Resources\unity default resources">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\Data\Resources\unity default resources">
       <PackagePath>Data\Resources\unity default resources</PackagePath>
-      <Modified>2018-01-29T19:56:18.000</Modified>
+      <Modified>2018-01-29T19:53:58.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\Data\Resources\unity_builtin_extra">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\Data\Resources\unity_builtin_extra">
       <PackagePath>Data\Resources\unity_builtin_extra</PackagePath>
-      <Modified>2018-03-21T20:08:36.206</Modified>
+      <Modified>2018-03-22T16:52:11.592</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\Data\globalgamemanagers.assets">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\Data\globalgamemanagers.assets">
       <PackagePath>Data\globalgamemanagers.assets</PackagePath>
-      <Modified>2018-03-21T20:08:32.502</Modified>
+      <Modified>2018-03-22T16:52:09.760</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\Data\resources.assets">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\Data\resources.assets">
       <PackagePath>Data\resources.assets</PackagePath>
-      <Modified>2018-03-21T20:08:33.578</Modified>
+      <Modified>2018-03-22T16:52:10.617</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\Data\sharedassets0.assets">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\Data\sharedassets0.assets">
       <PackagePath>Data\sharedassets0.assets</PackagePath>
-      <Modified>2018-03-21T20:08:35.673</Modified>
+      <Modified>2018-03-22T16:52:10.990</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\Data\level0.resS">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\Data\level0.resS">
       <PackagePath>Data\level0.resS</PackagePath>
-      <Modified>2018-03-21T20:08:30.071</Modified>
+      <Modified>2018-03-22T16:52:07.262</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\Data\resources.assets.resS">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\Data\resources.assets.resS">
       <PackagePath>Data\resources.assets.resS</PackagePath>
-      <Modified>2018-03-21T20:08:33.575</Modified>
+      <Modified>2018-03-22T16:52:10.615</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\Data\sharedassets0.assets.resS">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\Data\sharedassets0.assets.resS">
       <PackagePath>Data\sharedassets0.assets.resS</PackagePath>
-      <Modified>2018-03-21T20:08:35.672</Modified>
+      <Modified>2018-03-22T16:52:10.988</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\Data\managedAssemblies.txt">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\Data\managedAssemblies.txt">
       <PackagePath>Data\managedAssemblies.txt</PackagePath>
-      <Modified>2018-03-21T20:09:34.234</Modified>
+      <Modified>2018-03-22T16:53:19.057</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\Data\nativePlugins.txt">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\Data\nativePlugins.txt">
       <PackagePath>Data\nativePlugins.txt</PackagePath>
-      <Modified>2018-03-21T20:09:34.278</Modified>
+      <Modified>2018-03-22T16:53:19.062</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.16299.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
-      <Modified>2017-11-10T23:15:50.000</Modified>
+      <Modified>2017-09-28T23:28:16.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\bin\x86\Release\resources.pri">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\bin\x86\Release\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-21T20:10:34.184</Modified>
+      <Modified>2018-03-22T16:54:25.319</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\UnityEngine.TextRenderingModule.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.TextRenderingModule.dll">
       <PackagePath>UnityEngine.TextRenderingModule.dll</PackagePath>
-      <Modified>2018-03-21T20:10:46.117</Modified>
+      <Modified>2018-03-22T16:54:37.742</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\UnityEngine.TerrainPhysicsModule.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.TerrainPhysicsModule.dll">
       <PackagePath>UnityEngine.TerrainPhysicsModule.dll</PackagePath>
-      <Modified>2018-03-21T20:10:46.135</Modified>
+      <Modified>2018-03-22T16:54:37.760</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\UnityEngine.TerrainModule.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.TerrainModule.dll">
       <PackagePath>UnityEngine.TerrainModule.dll</PackagePath>
-      <Modified>2018-03-21T20:10:46.153</Modified>
+      <Modified>2018-03-22T16:54:37.776</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\UnityEngine.TilemapModule.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.TilemapModule.dll">
       <PackagePath>UnityEngine.TilemapModule.dll</PackagePath>
-      <Modified>2018-03-21T20:10:46.173</Modified>
+      <Modified>2018-03-22T16:54:37.799</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\UnityEngine.UIElementsModule.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.UIElementsModule.dll">
       <PackagePath>UnityEngine.UIElementsModule.dll</PackagePath>
-      <Modified>2018-03-21T20:10:46.209</Modified>
+      <Modified>2018-03-22T16:54:37.836</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\UnityEngine.SharedInternalsModule.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.SharedInternalsModule.dll">
       <PackagePath>UnityEngine.SharedInternalsModule.dll</PackagePath>
-      <Modified>2018-03-21T20:10:46.249</Modified>
+      <Modified>2018-03-22T16:54:37.873</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\UnityEngine.ScreenCaptureModule.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.ScreenCaptureModule.dll">
       <PackagePath>UnityEngine.ScreenCaptureModule.dll</PackagePath>
-      <Modified>2018-03-21T20:10:46.267</Modified>
+      <Modified>2018-03-22T16:54:37.891</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\UnityEngine.SpriteMaskModule.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.SpriteMaskModule.dll">
       <PackagePath>UnityEngine.SpriteMaskModule.dll</PackagePath>
-      <Modified>2018-03-21T20:10:46.281</Modified>
+      <Modified>2018-03-22T16:54:37.905</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\UnityEngine.StyleSheetsModule.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.StyleSheetsModule.dll">
       <PackagePath>UnityEngine.StyleSheetsModule.dll</PackagePath>
-      <Modified>2018-03-21T20:10:46.297</Modified>
+      <Modified>2018-03-22T16:54:37.921</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\UnityEngine.SpriteShapeModule.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.SpriteShapeModule.dll">
       <PackagePath>UnityEngine.SpriteShapeModule.dll</PackagePath>
-      <Modified>2018-03-21T20:10:46.314</Modified>
+      <Modified>2018-03-22T16:54:37.938</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\UnityEngine.VideoModule.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.VideoModule.dll">
       <PackagePath>UnityEngine.VideoModule.dll</PackagePath>
-      <Modified>2018-03-21T20:10:46.330</Modified>
+      <Modified>2018-03-22T16:54:37.956</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\UnityEngine.VehiclesModule.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.VehiclesModule.dll">
       <PackagePath>UnityEngine.VehiclesModule.dll</PackagePath>
-      <Modified>2018-03-21T20:10:46.347</Modified>
+      <Modified>2018-03-22T16:54:37.973</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\UnityEngine.UnityWebRequestWWWModule.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.UnityWebRequestWWWModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestWWWModule.dll</PackagePath>
-      <Modified>2018-03-21T20:10:46.363</Modified>
+      <Modified>2018-03-22T16:54:37.989</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\UnityEngine.VRModule.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.VRModule.dll">
       <PackagePath>UnityEngine.VRModule.dll</PackagePath>
-      <Modified>2018-03-21T20:10:46.388</Modified>
+      <Modified>2018-03-22T16:54:38.012</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\UnityEngine.WindModule.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.WindModule.dll">
       <PackagePath>UnityEngine.WindModule.dll</PackagePath>
-      <Modified>2018-03-21T20:10:46.416</Modified>
+      <Modified>2018-03-22T16:54:38.040</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\UnityEngine.WebModule.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.WebModule.dll">
       <PackagePath>UnityEngine.WebModule.dll</PackagePath>
-      <Modified>2018-03-21T20:10:46.433</Modified>
+      <Modified>2018-03-22T16:54:38.058</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\UnityEngine.UnityAnalyticsModule.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.UnityAnalyticsModule.dll">
       <PackagePath>UnityEngine.UnityAnalyticsModule.dll</PackagePath>
-      <Modified>2018-03-21T20:10:46.451</Modified>
+      <Modified>2018-03-22T16:54:38.076</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\UnityEngine.UNETModule.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.UNETModule.dll">
       <PackagePath>UnityEngine.UNETModule.dll</PackagePath>
-      <Modified>2018-03-21T20:10:46.472</Modified>
+      <Modified>2018-03-22T16:54:38.098</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\UnityEngine.UIModule.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.UIModule.dll">
       <PackagePath>UnityEngine.UIModule.dll</PackagePath>
-      <Modified>2018-03-21T20:10:46.502</Modified>
+      <Modified>2018-03-22T16:54:38.125</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\UnityEngine.UnityConnectModule.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.UnityConnectModule.dll">
       <PackagePath>UnityEngine.UnityConnectModule.dll</PackagePath>
-      <Modified>2018-03-21T20:10:46.519</Modified>
+      <Modified>2018-03-22T16:54:38.142</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\UnityEngine.UnityWebRequestTextureModule.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.UnityWebRequestTextureModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestTextureModule.dll</PackagePath>
-      <Modified>2018-03-21T20:10:46.535</Modified>
+      <Modified>2018-03-22T16:54:38.157</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\UnityEngine.UnityWebRequestModule.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.UnityWebRequestModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestModule.dll</PackagePath>
-      <Modified>2018-03-21T20:10:46.551</Modified>
+      <Modified>2018-03-22T16:54:38.172</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\UnityEngine.UnityWebRequestAudioModule.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.UnityWebRequestAudioModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestAudioModule.dll</PackagePath>
-      <Modified>2018-03-21T20:10:46.569</Modified>
+      <Modified>2018-03-22T16:54:38.191</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\UnityEngine.PhysicsModule.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.PhysicsModule.dll">
       <PackagePath>UnityEngine.PhysicsModule.dll</PackagePath>
-      <Modified>2018-03-21T20:10:46.589</Modified>
+      <Modified>2018-03-22T16:54:38.210</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\UnityEngine.AssetBundleModule.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.AssetBundleModule.dll">
       <PackagePath>UnityEngine.AssetBundleModule.dll</PackagePath>
-      <Modified>2018-03-21T20:10:46.615</Modified>
+      <Modified>2018-03-22T16:54:38.235</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\UnityEngine.ARModule.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.ARModule.dll">
       <PackagePath>UnityEngine.ARModule.dll</PackagePath>
-      <Modified>2018-03-21T20:10:46.631</Modified>
+      <Modified>2018-03-22T16:54:38.250</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\UnityEngine.AnimationModule.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.AnimationModule.dll">
       <PackagePath>UnityEngine.AnimationModule.dll</PackagePath>
-      <Modified>2018-03-21T20:10:46.655</Modified>
+      <Modified>2018-03-22T16:54:38.276</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\UnityEngine.AudioModule.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.AudioModule.dll">
       <PackagePath>UnityEngine.AudioModule.dll</PackagePath>
-      <Modified>2018-03-21T20:10:46.695</Modified>
+      <Modified>2018-03-22T16:54:38.308</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\UnityEngine.CrashReportingModule.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.CrashReportingModule.dll">
       <PackagePath>UnityEngine.CrashReportingModule.dll</PackagePath>
-      <Modified>2018-03-21T20:10:46.717</Modified>
+      <Modified>2018-03-22T16:54:38.328</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\UnityEngine.CoreModule.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.CoreModule.dll">
       <PackagePath>UnityEngine.CoreModule.dll</PackagePath>
-      <Modified>2018-03-21T20:10:46.973</Modified>
+      <Modified>2018-03-22T16:54:38.590</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\UnityEngine.ClothModule.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.ClothModule.dll">
       <PackagePath>UnityEngine.ClothModule.dll</PackagePath>
-      <Modified>2018-03-21T20:10:47.065</Modified>
+      <Modified>2018-03-22T16:54:38.676</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\UnityEngine.AIModule.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.AIModule.dll">
       <PackagePath>UnityEngine.AIModule.dll</PackagePath>
-      <Modified>2018-03-21T20:10:47.085</Modified>
+      <Modified>2018-03-22T16:54:38.696</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\UnityEngine.AccessibilityModule.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.AccessibilityModule.dll">
       <PackagePath>UnityEngine.AccessibilityModule.dll</PackagePath>
-      <Modified>2018-03-21T20:10:47.106</Modified>
+      <Modified>2018-03-22T16:54:38.714</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\UnityEngine.JSONSerializeModule.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.JSONSerializeModule.dll">
       <PackagePath>UnityEngine.JSONSerializeModule.dll</PackagePath>
-      <Modified>2018-03-21T20:10:47.120</Modified>
+      <Modified>2018-03-22T16:54:38.728</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\UnityEngine.InputModule.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.InputModule.dll">
       <PackagePath>UnityEngine.InputModule.dll</PackagePath>
-      <Modified>2018-03-21T20:10:47.134</Modified>
+      <Modified>2018-03-22T16:54:38.742</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\UnityEngine.ParticlesLegacyModule.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.ParticlesLegacyModule.dll">
       <PackagePath>UnityEngine.ParticlesLegacyModule.dll</PackagePath>
-      <Modified>2018-03-21T20:10:47.151</Modified>
+      <Modified>2018-03-22T16:54:38.757</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\UnityEngine.Physics2DModule.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.Physics2DModule.dll">
       <PackagePath>UnityEngine.Physics2DModule.dll</PackagePath>
-      <Modified>2018-03-21T20:10:47.175</Modified>
+      <Modified>2018-03-22T16:54:38.781</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\UnityEngine.PerformanceReportingModule.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.PerformanceReportingModule.dll">
       <PackagePath>UnityEngine.PerformanceReportingModule.dll</PackagePath>
-      <Modified>2018-03-21T20:10:47.206</Modified>
+      <Modified>2018-03-22T16:54:38.812</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\UnityEngine.ParticleSystemModule.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.ParticleSystemModule.dll">
       <PackagePath>UnityEngine.ParticleSystemModule.dll</PackagePath>
-      <Modified>2018-03-21T20:10:47.229</Modified>
+      <Modified>2018-03-22T16:54:38.834</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\UnityEngine.GameCenterModule.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.GameCenterModule.dll">
       <PackagePath>UnityEngine.GameCenterModule.dll</PackagePath>
-      <Modified>2018-03-21T20:10:47.264</Modified>
+      <Modified>2018-03-22T16:54:38.867</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\UnityEngine.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.dll">
       <PackagePath>UnityEngine.dll</PackagePath>
-      <Modified>2018-03-21T20:09:05.697</Modified>
+      <Modified>2018-03-22T16:52:46.138</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\UnityEngine.DirectorModule.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.DirectorModule.dll">
       <PackagePath>UnityEngine.DirectorModule.dll</PackagePath>
-      <Modified>2018-03-21T20:10:47.284</Modified>
+      <Modified>2018-03-22T16:54:38.885</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\UnityEngine.GridModule.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.GridModule.dll">
       <PackagePath>UnityEngine.GridModule.dll</PackagePath>
-      <Modified>2018-03-21T20:10:47.302</Modified>
+      <Modified>2018-03-22T16:54:38.899</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\UnityEngine.IMGUIModule.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.IMGUIModule.dll">
       <PackagePath>UnityEngine.IMGUIModule.dll</PackagePath>
-      <Modified>2018-03-21T20:10:47.329</Modified>
+      <Modified>2018-03-22T16:54:38.923</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\UnityEngine.ImageConversionModule.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.ImageConversionModule.dll">
       <PackagePath>UnityEngine.ImageConversionModule.dll</PackagePath>
-      <Modified>2018-03-21T20:10:47.364</Modified>
+      <Modified>2018-03-22T16:54:38.955</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\Newtonsoft.Json.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\Newtonsoft.Json.dll">
       <PackagePath>Newtonsoft.Json.dll</PackagePath>
-      <Modified>2018-03-21T20:10:47.418</Modified>
+      <Modified>2018-03-22T16:54:39.020</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\UnityEngine.Timeline.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.Timeline.dll">
       <PackagePath>UnityEngine.Timeline.dll</PackagePath>
-      <Modified>2018-03-21T20:10:47.498</Modified>
+      <Modified>2018-03-22T16:54:39.172</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\nunit.framework.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\nunit.framework.dll">
       <PackagePath>nunit.framework.dll</PackagePath>
-      <Modified>2018-03-21T20:10:47.557</Modified>
+      <Modified>2018-03-22T16:54:39.257</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\UnityEngine.UI.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.UI.dll">
       <PackagePath>UnityEngine.UI.dll</PackagePath>
-      <Modified>2018-03-21T20:10:48.020</Modified>
+      <Modified>2018-03-22T16:54:39.361</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\UnityEngine.SpatialTracking.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.SpatialTracking.dll">
       <PackagePath>UnityEngine.SpatialTracking.dll</PackagePath>
-      <Modified>2018-03-21T20:10:48.064</Modified>
+      <Modified>2018-03-22T16:54:39.399</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\UnityEngine.Analytics.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.Analytics.dll">
       <PackagePath>UnityEngine.Analytics.dll</PackagePath>
-      <Modified>2018-03-21T20:10:48.087</Modified>
+      <Modified>2018-03-22T16:54:39.423</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\UnityEngine.HoloLens.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.HoloLens.dll">
       <PackagePath>UnityEngine.HoloLens.dll</PackagePath>
-      <Modified>2018-03-21T20:10:48.115</Modified>
+      <Modified>2018-03-22T16:54:39.448</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\UnityEngine.StandardEvents.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.StandardEvents.dll">
       <PackagePath>UnityEngine.StandardEvents.dll</PackagePath>
-      <Modified>2018-03-21T20:10:48.141</Modified>
+      <Modified>2018-03-22T16:54:39.471</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\UnityEngine.Networking.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.Networking.dll">
       <PackagePath>UnityEngine.Networking.dll</PackagePath>
-      <Modified>2018-03-21T20:10:48.209</Modified>
+      <Modified>2018-03-22T16:54:39.537</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\GLTFSerializationUWP.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\GLTFSerializationUWP.dll">
       <PackagePath>GLTFSerializationUWP.dll</PackagePath>
-      <Modified>2018-03-21T20:10:48.266</Modified>
+      <Modified>2018-03-22T16:54:39.590</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\Assembly-CSharp.dll">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\Assembly-CSharp.dll">
       <PackagePath>Assembly-CSharp.dll</PackagePath>
-      <Modified>2018-03-21T20:10:46.037</Modified>
+      <Modified>2018-03-22T16:54:37.363</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Unity\DevHoloTour\App\DevHoloTour\bin\x86\Release\Core\DevHoloTour.exe">
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\bin\x86\Release\Core\DevHoloTour.exe">
       <PackagePath>DevHoloTour.exe</PackagePath>
-      <Modified>2018-03-21T20:10:53.894</Modified>
+      <Modified>2018-03-22T16:54:45.873</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

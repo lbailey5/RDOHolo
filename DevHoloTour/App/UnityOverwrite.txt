@@ -7,9 +7,9 @@
 # Default behavior is to never overwrite files
 DevHoloTour.sln: modified
 DevHoloTour\App.cs: 7C9ECA4DD936F23CE1D23BF34310D7AB
-DevHoloTour\DevHoloTour.csproj: 7ADE1079F1F62E955D911335ADD340C4
+DevHoloTour\DevHoloTour.csproj: 80AA16B8590B611AEDDD49679EFCE2D6
 DevHoloTour\DevHoloTour.csproj.user: modified
-DevHoloTour\Package.appxmanifest: AE4CF19E8C5A98D9ADF68BA034674DB0
+DevHoloTour\Package.appxmanifest: C06B1C9079DE86EEBEEEBA2D9BD801C4
 DevHoloTour\project.json: 1D02BC64BAC0D041019673A1C4C51737
 DevHoloTour\Assets\SplashScreen.scale-200.png: A85C1D7624B6902CF8CEBD6F0200A826
 DevHoloTour\Assets\Square150x150Logo.scale-200.png: E02834B4A5DFB97FF8E212C1CACBB084

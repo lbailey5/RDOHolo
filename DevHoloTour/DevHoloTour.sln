@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
+# Visual Studio 2017
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevHoloTour", "DevHoloTour.csproj", "{A3305D23-1FE1-8748-F321-F4308BCFD0C2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevHoloTour.Editor", "DevHoloTour.Editor.csproj", "{0C473D90-68C9-B42C-83CD-E174E72C3969}"

@@ -12742,7 +12742,7 @@
       ]
     },
     "Microsoft.NETCore.Runtime.CoreCLR-arm/1.0.0": {
-      "sha512": "hoJfIl981eXwn9Tz8onO/J1xaYApIfp/YrhjSh9rRhml1U5Wj80LBgyp/6n+KI3VlvcAraThhnHnCTp+M3Uh+w==",
+      "sha512": "vUQyaKbHCa7BJAAzdfCP2FfBYOSt0YnDw7VMJLmD1/k68HIJgw1QO7GAfHhqoa39zkkvimC47QBH27wG4C5OGQ==",
       "type": "package",
       "path": "microsoft.netcore.runtime.coreclr-arm/1.0.0",
       "files": [
@@ -15849,23 +15849,23 @@
     "UAP,Version=v10.0.10240": []
   },
   "packageFolders": {
-    "C:\\Users\\BAIL8348\\.nuget\\packages\\": {},
+    "C:\\Users\\KELL3789\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {}
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\Development\\Unity\\DevHoloTour\\App\\DevHoloTour\\DevHoloTour.csproj",
+      "projectUniqueName": "C:\\Unity\\RDOHolo\\DevHoloTour\\App\\DevHoloTour\\DevHoloTour.csproj",
       "projectName": "DevHoloTour",
-      "projectPath": "C:\\Development\\Unity\\DevHoloTour\\App\\DevHoloTour\\DevHoloTour.csproj",
-      "projectJsonPath": "C:\\Development\\Unity\\DevHoloTour\\App\\DevHoloTour\\project.json",
-      "packagesPath": "C:\\Users\\BAIL8348\\.nuget\\packages\\",
-      "outputPath": "C:\\Development\\Unity\\DevHoloTour\\App\\DevHoloTour\\obj\\",
+      "projectPath": "C:\\Unity\\RDOHolo\\DevHoloTour\\App\\DevHoloTour\\DevHoloTour.csproj",
+      "projectJsonPath": "C:\\Unity\\RDOHolo\\DevHoloTour\\App\\DevHoloTour\\project.json",
+      "packagesPath": "C:\\Users\\KELL3789\\.nuget\\packages\\",
+      "outputPath": "C:\\Unity\\RDOHolo\\DevHoloTour\\App\\DevHoloTour\\obj\\",
       "projectStyle": "ProjectJson",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\BAIL8348\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\KELL3789\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
@@ -15876,8 +15876,8 @@
       "frameworks": {
         "uap10.0.10240": {
           "projectReferences": {
-            "C:\\Development\\Unity\\DevHoloTour\\App\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj": {
-              "projectPath": "C:\\Development\\Unity\\DevHoloTour\\App\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj"
+            "C:\\Unity\\RDOHolo\\DevHoloTour\\App\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj": {
+              "projectPath": "C:\\Unity\\RDOHolo\\DevHoloTour\\App\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj"
             }
           }
         }
