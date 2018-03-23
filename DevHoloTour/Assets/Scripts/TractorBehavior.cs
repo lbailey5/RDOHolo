@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using HoloToolkit.Unity.InputModule;
 
-public class TractorBehavior : MonoBehaviour{
+public class TractorBehavior : MonoBehaviour, IInputClickHandler {
 
     private Renderer rend;
     private Material tractorBodyMaterial;

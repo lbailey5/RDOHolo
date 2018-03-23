@@ -7,7 +7,7 @@ public class PointToObjectBehavior : MonoBehaviour {
     public GameObject ObjectToPointTo;
     public bool IsTracking { get; private set; }
 
-    private Renderer renderer;
+    private new Renderer renderer;
 
     public void StartTracking()
     {

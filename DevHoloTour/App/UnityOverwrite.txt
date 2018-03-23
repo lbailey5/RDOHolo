@@ -7,7 +7,7 @@
 # Default behavior is to never overwrite files
 DevHoloTour.sln: modified
 DevHoloTour\App.cs: 7C9ECA4DD936F23CE1D23BF34310D7AB
-DevHoloTour\DevHoloTour.csproj: 416BD6B362BAB21A40FA58D657CDFF68
+DevHoloTour\DevHoloTour.csproj: E6B114D874735BC9F1A7C2FA034A9464
 DevHoloTour\DevHoloTour.csproj.user: modified
 DevHoloTour\Package.appxmanifest: C06B1C9079DE86EEBEEEBA2D9BD801C4
 DevHoloTour\project.json: 1D02BC64BAC0D041019673A1C4C51737
@@ -24,6 +24,7 @@ DevHoloTour\bin\x86\Release\AppX\Assets\Square44x44Logo.targetsize-24_altform-un
 DevHoloTour\bin\x86\Release\AppX\Assets\StoreLogo.png: 90BD194CA4A7CFFF3E8B8222229857FB
 DevHoloTour\bin\x86\Release\AppX\Assets\Wide310x150Logo.scale-200.png: C96846A80DF667F87355569CD816192D
 DevHoloTour\bin\x86\Release\AppX\Properties\Default.rd.xml: 72EB282657164E79A1C42F6240984826
+DevHoloTour\obj\ARM\Debug\DevHoloTour.csproj.CopyComplete: D41D8CD98F00B204E9800998ECF8427E
 DevHoloTour\obj\x86\Release\DevHoloTour.csproj.CopyComplete: D41D8CD98F00B204E9800998ECF8427E
 DevHoloTour\Properties\Default.rd.xml: 72EB282657164E79A1C42F6240984826
 GeneratedProjects\UWP\Assembly-CSharp\project.json: 1D02BC64BAC0D041019673A1C4C51737

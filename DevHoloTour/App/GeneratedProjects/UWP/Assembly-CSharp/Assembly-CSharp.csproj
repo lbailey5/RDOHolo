@@ -5,7 +5,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{cff49c7c-2578-48ec-8a95-9daf0e46aa6c}</ProjectGuid>
+    <ProjectGuid>{440d7d6c-8cec-43cd-b06a-89681faba383}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>AssemblyCSharpWSA</RootNamespace>
@@ -361,6 +361,15 @@
     <SDKReference Include="WindowsTeam, Version=10.0.16299.0"/>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="$(UnityProjectDir)Assets\CameraFacingBillboard.cs">
+      <Link>CameraFacingBillboard.cs</Link>
+    </Compile>
+    <Compile Include="$(UnityProjectDir)Assets\CommandMenu.cs">
+      <Link>CommandMenu.cs</Link>
+    </Compile>
+    <Compile Include="$(UnityProjectDir)Assets\Cowboy\Scripts\Cowboy.cs">
+      <Link>Cowboy\Scripts\Cowboy.cs</Link>
+    </Compile>
     <Compile Include="$(UnityProjectDir)Assets\HologramManager.cs">
       <Link>HologramManager.cs</Link>
     </Compile>
@@ -2287,8 +2296,14 @@
     <Compile Include="$(UnityProjectDir)Assets\HoloToolkit-UnitTests\Utilities\ReflectionTestBehaviour.cs">
       <Link>HoloToolkit-UnitTests\Utilities\ReflectionTestBehaviour.cs</Link>
     </Compile>
+    <Compile Include="$(UnityProjectDir)Assets\NameTag.cs">
+      <Link>NameTag.cs</Link>
+    </Compile>
     <Compile Include="$(UnityProjectDir)Assets\ObjectCollectionBoard.cs">
       <Link>ObjectCollectionBoard.cs</Link>
+    </Compile>
+    <Compile Include="$(UnityProjectDir)Assets\PlaceCowboy.cs">
+      <Link>PlaceCowboy.cs</Link>
     </Compile>
     <Compile Include="$(UnityProjectDir)Assets\RainMaker\Demo\DemoScript.cs">
       <Link>RainMaker\Demo\DemoScript.cs</Link>
@@ -2368,7 +2383,7 @@
     <Message Importance="high" Text="Running SerializationWeaver..." />
     <Move SourceFiles="@(IntermediateAssembly)" DestinationFolder="$(TargetDir)Unprocessed" OverwriteReadOnlyFiles="true" />
     <Move SourceFiles="@(IntermediateAssembly-&gt;'%(RelativeDir)%(Filename).pdb')" DestinationFolder="$(TargetDir)Unprocessed" Condition="Exists('@(IntermediateAssembly-&gt;'%(RelativeDir)%(Filename).pdb')')" OverwriteReadOnlyFiles="true" />
-    <Exec Command="&quot;$(UnityWSAToolsDir)SerializationWeaver\SerializationWeaver.exe&quot; &quot;$(TargetDir)Unprocessed\$(TargetFileName)&quot; &quot;-pdb&quot; &quot;-verbose&quot; &quot;-unity-engine=$(UnityWSASolutionDir)$(UnityWSASolutionName)\Unprocessed\UnityEngine.CoreModule.dll&quot; &quot;$([System.IO.Path]::GetFullPath('$(IntermediateOutputPath)').TrimEnd('\'))&quot; &quot;-lock=$([System.IO.Path]::Combine('$(ProjectDir)', 'project.lock.json'))&quot; &quot;@C:\Unity\RDOHolo\DevHoloTour\App\GeneratedProjects\UWP\Assembly-CSharp\SerializationWeaverArgs.txt&quot; &quot;-additionalAssemblyPath=$(UnityWSASolutionDir)$(UnityWSASolutionName)\Unprocessed&quot; &quot;-unity-networking=$(UnityWSASolutionDir)$(UnityWSASolutionName)\Unprocessed\UnityEngine.Networking.dll&quot;" />
+    <Exec Command="&quot;$(UnityWSAToolsDir)SerializationWeaver\SerializationWeaver.exe&quot; &quot;$(TargetDir)Unprocessed\$(TargetFileName)&quot; &quot;-pdb&quot; &quot;-verbose&quot; &quot;-unity-engine=$(UnityWSASolutionDir)$(UnityWSASolutionName)\Unprocessed\UnityEngine.CoreModule.dll&quot; &quot;$([System.IO.Path]::GetFullPath('$(IntermediateOutputPath)').TrimEnd('\'))&quot; &quot;-lock=$([System.IO.Path]::Combine('$(ProjectDir)', 'project.lock.json'))&quot; &quot;@C:\Development\RDOHolo\RDOHolo\DevHoloTour\App\GeneratedProjects\UWP\Assembly-CSharp\SerializationWeaverArgs.txt&quot; &quot;-additionalAssemblyPath=$(UnityWSASolutionDir)$(UnityWSASolutionName)\Unprocessed&quot; &quot;-unity-networking=$(UnityWSASolutionDir)$(UnityWSASolutionName)\Unprocessed\UnityEngine.Networking.dll&quot;" />
     <Message Importance="high" Text="SerializationWeaver done." />
   </Target>
   <PropertyGroup>

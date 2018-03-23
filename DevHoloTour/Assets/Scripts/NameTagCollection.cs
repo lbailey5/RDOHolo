@@ -7,15 +7,14 @@ using System.Linq;
 public class NameTagCollection : MonoBehaviour {
 
 
+    public List<NameTag> NameTagPrefabs;
 
-  //  public GameObject NameTags;
+    public List<GameObject> NameTagPrefabObjects;
 
-    public Transform NameTags;
 
-  //  NameTags = this.gameObject.transform.GetChild(0);
 
-// Use this for initialization
-void Start () {
+    // Use this for initialization
+    void Start () {
 		
 	}
 	

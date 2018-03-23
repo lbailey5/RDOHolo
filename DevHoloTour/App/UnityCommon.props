@@ -1,8 +1,8 @@
 ﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
     <PropertyGroup>
         <UnityWSASolutionName>DevHoloTour</UnityWSASolutionName>
-        <UnityWSASolutionDir>C:\Unity\RDOHolo\DevHoloTour\App\</UnityWSASolutionDir>
-        <UnityProjectDir>C:\Unity\RDOHolo\DevHoloTour\</UnityProjectDir>
+        <UnityWSASolutionDir>C:\Development\RDOHolo\RDOHolo\DevHoloTour\App\</UnityWSASolutionDir>
+        <UnityProjectDir>C:\Development\RDOHolo\RDOHolo\DevHoloTour\</UnityProjectDir>
         <UnityWSAPlayerDir>C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
         <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
     </PropertyGroup>
