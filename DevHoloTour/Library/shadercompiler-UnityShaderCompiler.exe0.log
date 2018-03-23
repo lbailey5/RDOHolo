@@ -7,15 +7,15 @@ Cmd: preprocess
 Cmd: preprocess
   insize=2168 outsize=1884 ok=1
 Cmd: preprocess
-  insize=609 outsize=1462 ok=1
+  insize=641 outsize=1479 ok=1
 Cmd: preprocess
   insize=2311 outsize=1614 ok=1
 Cmd: preprocess
-  insize=4660 outsize=991 ok=1
+  insize=4658 outsize=989 ok=1
 Cmd: preprocess
-  insize=4460 outsize=709 ok=1
+  insize=4582 outsize=736 ok=1
 Cmd: preprocess
-  insize=2819 outsize=1466 ok=1
+  insize=2915 outsize=1519 ok=1
 Cmd: preprocess
   insize=2138 outsize=1162 ok=1
 Cmd: preprocess
@@ -43,7 +43,7 @@ Cmd: preprocess
 Cmd: preprocess
   insize=19171 outsize=3146 ok=1
 Cmd: preprocess
-  insize=2430 outsize=751 ok=1
+  insize=2433 outsize=752 ok=1
 Cmd: preprocess
   insize=1504 outsize=689 ok=1
 Cmd: preprocess
@@ -67,13 +67,13 @@ Cmd: preprocess
 Cmd: preprocess
   insize=6821 outsize=3963 ok=1
 Cmd: preprocess
-  insize=3132 outsize=1684 ok=1
+  insize=3135 outsize=1686 ok=1
 Cmd: preprocess
   insize=4645 outsize=827 ok=1
 Cmd: preprocess
   insize=1530 outsize=715 ok=1
 Cmd: preprocess
-  insize=2518 outsize=845 ok=1
+  insize=2521 outsize=847 ok=1
 Cmd: preprocess
   insize=1174 outsize=463 ok=1
 Cmd: preprocess
@@ -84,7 +84,3 @@ Cmd: preprocess
   insize=733 outsize=1180 ok=1
 Cmd: preprocess
   insize=1705 outsize=662 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=2539 outsize=1186 kw=SOFTPARTICLES_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_RGBM_ENCODING ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=2539 outsize=790 kw=SOFTPARTICLES_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_RGBM_ENCODING ok=1

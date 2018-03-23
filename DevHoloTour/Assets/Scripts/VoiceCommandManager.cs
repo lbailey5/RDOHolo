@@ -11,10 +11,6 @@ public class VoiceCommandManager : MonoBehaviour, IDictationHandler {
     public string LastVoiceCommand;
     public GameObject[] ObjectsToTrack;
 
-    public NameTagCollection NameCollection;
-
-   // public GameObject NameCollectionObject;
-
     private GuidingVoiceBehavior guidingVoiceBehavior;
     private PointToObjectBehavior pointToObjectBehavior;
     private bool isRecording = false;
@@ -89,31 +85,6 @@ public class VoiceCommandManager : MonoBehaviour, IDictationHandler {
                 }
                 else
                 {
-                    var names = NameCollection.NameTagPrefabObjects;
-
-                    var selectedObject = names.Where(x => words.Contains(x.name.ToUpper())).FirstOrDefault();
-                    if(selectedObject != null)
-                    {
-                        LocateObject(selectedObject);
-                    }
-                    else
-                    {
-                        Apologize();
-                    }
-                    
-                }
-            }
-            else if (words.Contains("WHAT"))
-            {
-                var names = NameCollection.NameTagPrefabs;
-
-                var selectedName = names.Where(x => words.Contains(x.name.ToUpper())).FirstOrDefault();
-                if (selectedName != null)
-                {
-                    About(selectedName);
-                }
-                else
-                {
                     Apologize();
                 }
             }
@@ -142,16 +113,6 @@ public class VoiceCommandManager : MonoBehaviour, IDictationHandler {
     {
         GuidingVoice.transform.position = this.gameObject.transform.position + new Vector3(0, .6f, 0) ;
         guidingVoiceBehavior.SayText("Fuck if I know");
-    }
-
-    private void About(NameTag selected)
-    {
-
-        var response = selected.name + " is a " + selected.Title + " and works mostly with " + selected.Concentration;
-
-        Debug.Log(response);
-        guidingVoiceBehavior.SayText(response);
-
     }
 
     public void OnDictationComplete(DictationEventData eventData)

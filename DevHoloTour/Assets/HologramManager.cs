@@ -8,9 +8,15 @@ public class HologramManager : Singleton<HologramManager> {
 
     public GameObject SpherePrefab;
 
-    public CommandMenu Menu;
-
     public static List<GameObject> ActiveHolograms = new List<GameObject>();
+
+    public int ActiveHologramSize {
+        get
+        {
+            return ActiveHolograms.Count;
+        }
+
+    }
 
     public void Create3DCube()
     {
@@ -22,7 +28,6 @@ public class HologramManager : Singleton<HologramManager> {
         {
             newObject.AddComponent<MeshCollider>();
             ActiveHolograms.Add(newObject);
-            Menu.UpdateBoard(ActiveHolograms.Count);
         }
     }
 
@@ -36,7 +41,6 @@ public class HologramManager : Singleton<HologramManager> {
         {
             newObject.AddComponent<MeshCollider>();
             ActiveHolograms.Add(newObject);
-            Menu.UpdateBoard(ActiveHolograms.Count);
         }
     }
 		

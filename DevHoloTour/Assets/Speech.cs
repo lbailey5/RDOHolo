@@ -10,11 +10,11 @@ public class Speech : MonoBehaviour
         SpatialUnderstandingMesh.DrawProcessedMesh = !SpatialUnderstandingMesh.DrawProcessedMesh;
     }
 
-    public CommandMenu menu;
+    public ObjectCollectionBoard board;
 
-    public void ToggleMenu()
+    public void ToggleCollectionBoard()
     {
-        menu.ToggleMenu();
+        board.ToggleBoard();
     }
 
     public HologramManager holo;

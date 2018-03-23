@@ -70,7 +70,7 @@ public class VoiceDisplayBehavior : MonoBehaviour, HoloToolkit.Unity.InputModule
 
     // Use this for initialization
     void Start () {
-        TextOutput.text = "";
+        TextOutput.text = "HelloText";
 	}
 	
 	// Update is called once per frame

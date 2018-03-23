@@ -1,2 +1,2 @@
-C:\Development\RDOHolo\RDOHolo\DevHoloTour\App\DevHoloTour\DevHoloTour.csproj;x86
-C:\Development\RDOHolo\RDOHolo\DevHoloTour\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\DevHoloTour.csproj;x86
+C:\Unity\RDOHolo\DevHoloTour\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86

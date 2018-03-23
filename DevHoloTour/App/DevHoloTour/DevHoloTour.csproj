@@ -360,8 +360,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="C:\Development\RDOHolo\RDOHolo\DevHoloTour\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj">
-      <Project>{440d7d6c-8cec-43cd-b06a-89681faba383}</Project>
+    <ProjectReference Include="C:\Unity\RDOHolo\DevHoloTour\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj">
+      <Project>{204815b8-4ecb-4ecf-9b60-e4215aa6f87b}</Project>
       <Name>Assembly-CSharp</Name>
       <Private>False</Private>
     </ProjectReference>

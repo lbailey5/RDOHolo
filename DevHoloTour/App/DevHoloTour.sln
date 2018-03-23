@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.6.27428.2011
+VisualStudioVersion = 15.6.27428.2002
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevHoloTour", "DevHoloTour\DevHoloTour.csproj", "{13A45C13-3265-47B8-BC48-A553B569DF55}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "C:\Development\RDOHolo\RDOHolo\DevHoloTour\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj", "{D69148E3-ACFB-4088-A576-A7576F09726D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "C:\Unity\RDOHolo\DevHoloTour\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj", "{204815B8-4ECB-4ECF-9B60-E4215AA6F87B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -47,29 +47,29 @@ Global
 		{13A45C13-3265-47B8-BC48-A553B569DF55}.Release|x86.ActiveCfg = Release|x86
 		{13A45C13-3265-47B8-BC48-A553B569DF55}.Release|x86.Build.0 = Release|x86
 		{13A45C13-3265-47B8-BC48-A553B569DF55}.Release|x86.Deploy.0 = Release|x86
-		{D69148E3-ACFB-4088-A576-A7576F09726D}.Debug|ARM.ActiveCfg = Debug|ARM
-		{D69148E3-ACFB-4088-A576-A7576F09726D}.Debug|ARM.Build.0 = Debug|ARM
-		{D69148E3-ACFB-4088-A576-A7576F09726D}.Debug|x64.ActiveCfg = Debug|x64
-		{D69148E3-ACFB-4088-A576-A7576F09726D}.Debug|x64.Build.0 = Debug|x64
-		{D69148E3-ACFB-4088-A576-A7576F09726D}.Debug|x86.ActiveCfg = Debug|x86
-		{D69148E3-ACFB-4088-A576-A7576F09726D}.Debug|x86.Build.0 = Debug|x86
-		{D69148E3-ACFB-4088-A576-A7576F09726D}.Master|ARM.ActiveCfg = Master|ARM
-		{D69148E3-ACFB-4088-A576-A7576F09726D}.Master|ARM.Build.0 = Master|ARM
-		{D69148E3-ACFB-4088-A576-A7576F09726D}.Master|x64.ActiveCfg = Master|x64
-		{D69148E3-ACFB-4088-A576-A7576F09726D}.Master|x64.Build.0 = Master|x64
-		{D69148E3-ACFB-4088-A576-A7576F09726D}.Master|x86.ActiveCfg = Master|x86
-		{D69148E3-ACFB-4088-A576-A7576F09726D}.Master|x86.Build.0 = Master|x86
-		{D69148E3-ACFB-4088-A576-A7576F09726D}.Release|ARM.ActiveCfg = Release|ARM
-		{D69148E3-ACFB-4088-A576-A7576F09726D}.Release|ARM.Build.0 = Release|ARM
-		{D69148E3-ACFB-4088-A576-A7576F09726D}.Release|x64.ActiveCfg = Release|x64
-		{D69148E3-ACFB-4088-A576-A7576F09726D}.Release|x64.Build.0 = Release|x64
-		{D69148E3-ACFB-4088-A576-A7576F09726D}.Release|x86.ActiveCfg = Release|x86
-		{D69148E3-ACFB-4088-A576-A7576F09726D}.Release|x86.Build.0 = Release|x86
+		{204815B8-4ECB-4ECF-9B60-E4215AA6F87B}.Debug|ARM.ActiveCfg = Debug|ARM
+		{204815B8-4ECB-4ECF-9B60-E4215AA6F87B}.Debug|ARM.Build.0 = Debug|ARM
+		{204815B8-4ECB-4ECF-9B60-E4215AA6F87B}.Debug|x64.ActiveCfg = Debug|x64
+		{204815B8-4ECB-4ECF-9B60-E4215AA6F87B}.Debug|x64.Build.0 = Debug|x64
+		{204815B8-4ECB-4ECF-9B60-E4215AA6F87B}.Debug|x86.ActiveCfg = Debug|x86
+		{204815B8-4ECB-4ECF-9B60-E4215AA6F87B}.Debug|x86.Build.0 = Debug|x86
+		{204815B8-4ECB-4ECF-9B60-E4215AA6F87B}.Master|ARM.ActiveCfg = Master|ARM
+		{204815B8-4ECB-4ECF-9B60-E4215AA6F87B}.Master|ARM.Build.0 = Master|ARM
+		{204815B8-4ECB-4ECF-9B60-E4215AA6F87B}.Master|x64.ActiveCfg = Master|x64
+		{204815B8-4ECB-4ECF-9B60-E4215AA6F87B}.Master|x64.Build.0 = Master|x64
+		{204815B8-4ECB-4ECF-9B60-E4215AA6F87B}.Master|x86.ActiveCfg = Master|x86
+		{204815B8-4ECB-4ECF-9B60-E4215AA6F87B}.Master|x86.Build.0 = Master|x86
+		{204815B8-4ECB-4ECF-9B60-E4215AA6F87B}.Release|ARM.ActiveCfg = Release|ARM
+		{204815B8-4ECB-4ECF-9B60-E4215AA6F87B}.Release|ARM.Build.0 = Release|ARM
+		{204815B8-4ECB-4ECF-9B60-E4215AA6F87B}.Release|x64.ActiveCfg = Release|x64
+		{204815B8-4ECB-4ECF-9B60-E4215AA6F87B}.Release|x64.Build.0 = Release|x64
+		{204815B8-4ECB-4ECF-9B60-E4215AA6F87B}.Release|x86.ActiveCfg = Release|x86
+		{204815B8-4ECB-4ECF-9B60-E4215AA6F87B}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {4296A23B-0ADF-4315-96E1-2068CAD36BA4}
+		SolutionGuid = {89004C6A-8CE7-48B2-B329-B864F84DD057}
 	EndGlobalSection
 EndGlobal
