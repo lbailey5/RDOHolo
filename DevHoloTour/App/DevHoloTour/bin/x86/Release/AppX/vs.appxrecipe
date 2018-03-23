@@ -31,13 +31,13 @@
     <AppXManifest Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\bin\x86\Release\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-22T16:54:45.887</Modified>
+      <Modified>2018-03-23T15:48:00.426</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\bin\x86\Release\DevHoloTour.exe">
       <PackagePath>entrypoint\DevHoloTour.exe</PackagePath>
-      <Modified>2018-03-22T16:54:23.594</Modified>
+      <Modified>2018-03-23T15:47:37.703</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\KELL3789\.nuget\packages\microsoft.applicationinsights\1.0.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.dll">
       <PackagePath>Microsoft.ApplicationInsights.dll</PackagePath>
@@ -501,7 +501,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\Resource.res">
       <PackagePath>Resource.res</PackagePath>
-      <Modified>2018-03-22T16:53:19.151</Modified>
+      <Modified>2018-03-23T15:46:30.765</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
@@ -559,15 +559,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\Data\boot.config">
       <PackagePath>Data\boot.config</PackagePath>
-      <Modified>2018-03-22T16:52:11.598</Modified>
+      <Modified>2018-03-23T15:45:27.137</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\Data\globalgamemanagers">
       <PackagePath>Data\globalgamemanagers</PackagePath>
-      <Modified>2018-03-22T16:52:09.468</Modified>
+      <Modified>2018-03-23T15:45:24.846</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\Data\level0">
       <PackagePath>Data\level0</PackagePath>
-      <Modified>2018-03-22T16:52:07.269</Modified>
+      <Modified>2018-03-23T15:45:22.464</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\Data\Resources\unity default resources">
       <PackagePath>Data\Resources\unity default resources</PackagePath>
@@ -575,39 +575,43 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\Data\Resources\unity_builtin_extra">
       <PackagePath>Data\Resources\unity_builtin_extra</PackagePath>
-      <Modified>2018-03-22T16:52:11.592</Modified>
+      <Modified>2018-03-23T15:45:27.131</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\Data\globalgamemanagers.assets">
       <PackagePath>Data\globalgamemanagers.assets</PackagePath>
-      <Modified>2018-03-22T16:52:09.760</Modified>
+      <Modified>2018-03-23T15:45:25.392</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\Data\resources.assets">
       <PackagePath>Data\resources.assets</PackagePath>
-      <Modified>2018-03-22T16:52:10.617</Modified>
+      <Modified>2018-03-23T15:45:26.032</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\Data\sharedassets0.assets">
       <PackagePath>Data\sharedassets0.assets</PackagePath>
-      <Modified>2018-03-22T16:52:10.990</Modified>
+      <Modified>2018-03-23T15:45:26.531</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\Data\level0.resS">
       <PackagePath>Data\level0.resS</PackagePath>
-      <Modified>2018-03-22T16:52:07.262</Modified>
+      <Modified>2018-03-23T15:45:22.458</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\Data\resources.assets.resS">
       <PackagePath>Data\resources.assets.resS</PackagePath>
-      <Modified>2018-03-22T16:52:10.615</Modified>
+      <Modified>2018-03-23T15:45:26.030</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\Data\sharedassets0.assets.resS">
       <PackagePath>Data\sharedassets0.assets.resS</PackagePath>
-      <Modified>2018-03-22T16:52:10.988</Modified>
+      <Modified>2018-03-23T15:45:26.527</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\Data\managedAssemblies.txt">
       <PackagePath>Data\managedAssemblies.txt</PackagePath>
-      <Modified>2018-03-22T16:53:19.057</Modified>
+      <Modified>2018-03-23T15:46:30.701</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\Data\nativePlugins.txt">
       <PackagePath>Data\nativePlugins.txt</PackagePath>
-      <Modified>2018-03-22T16:53:19.062</Modified>
+      <Modified>2018-03-23T15:46:30.706</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\Data\sharedassets0.resource">
+      <PackagePath>Data\sharedassets0.resource</PackagePath>
+      <Modified>2018-03-23T15:45:26.540</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.16299.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -616,235 +620,235 @@
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\bin\x86\Release\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-22T16:54:25.319</Modified>
+      <Modified>2018-03-23T15:47:39.310</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.TextRenderingModule.dll">
       <PackagePath>UnityEngine.TextRenderingModule.dll</PackagePath>
-      <Modified>2018-03-22T16:54:37.742</Modified>
+      <Modified>2018-03-23T15:47:51.813</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.TerrainPhysicsModule.dll">
       <PackagePath>UnityEngine.TerrainPhysicsModule.dll</PackagePath>
-      <Modified>2018-03-22T16:54:37.760</Modified>
+      <Modified>2018-03-23T15:47:51.835</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.TerrainModule.dll">
       <PackagePath>UnityEngine.TerrainModule.dll</PackagePath>
-      <Modified>2018-03-22T16:54:37.776</Modified>
+      <Modified>2018-03-23T15:47:51.852</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.TilemapModule.dll">
       <PackagePath>UnityEngine.TilemapModule.dll</PackagePath>
-      <Modified>2018-03-22T16:54:37.799</Modified>
+      <Modified>2018-03-23T15:47:51.875</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.UIElementsModule.dll">
       <PackagePath>UnityEngine.UIElementsModule.dll</PackagePath>
-      <Modified>2018-03-22T16:54:37.836</Modified>
+      <Modified>2018-03-23T15:47:51.910</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.SharedInternalsModule.dll">
       <PackagePath>UnityEngine.SharedInternalsModule.dll</PackagePath>
-      <Modified>2018-03-22T16:54:37.873</Modified>
+      <Modified>2018-03-23T15:47:51.946</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.ScreenCaptureModule.dll">
       <PackagePath>UnityEngine.ScreenCaptureModule.dll</PackagePath>
-      <Modified>2018-03-22T16:54:37.891</Modified>
+      <Modified>2018-03-23T15:47:51.963</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.SpriteMaskModule.dll">
       <PackagePath>UnityEngine.SpriteMaskModule.dll</PackagePath>
-      <Modified>2018-03-22T16:54:37.905</Modified>
+      <Modified>2018-03-23T15:47:51.976</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.StyleSheetsModule.dll">
       <PackagePath>UnityEngine.StyleSheetsModule.dll</PackagePath>
-      <Modified>2018-03-22T16:54:37.921</Modified>
+      <Modified>2018-03-23T15:47:51.993</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.SpriteShapeModule.dll">
       <PackagePath>UnityEngine.SpriteShapeModule.dll</PackagePath>
-      <Modified>2018-03-22T16:54:37.938</Modified>
+      <Modified>2018-03-23T15:47:52.010</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.VideoModule.dll">
       <PackagePath>UnityEngine.VideoModule.dll</PackagePath>
-      <Modified>2018-03-22T16:54:37.956</Modified>
+      <Modified>2018-03-23T15:47:52.026</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.VehiclesModule.dll">
       <PackagePath>UnityEngine.VehiclesModule.dll</PackagePath>
-      <Modified>2018-03-22T16:54:37.973</Modified>
+      <Modified>2018-03-23T15:47:52.043</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.UnityWebRequestWWWModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestWWWModule.dll</PackagePath>
-      <Modified>2018-03-22T16:54:37.989</Modified>
+      <Modified>2018-03-23T15:47:52.059</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.VRModule.dll">
       <PackagePath>UnityEngine.VRModule.dll</PackagePath>
-      <Modified>2018-03-22T16:54:38.012</Modified>
+      <Modified>2018-03-23T15:47:52.082</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.WindModule.dll">
       <PackagePath>UnityEngine.WindModule.dll</PackagePath>
-      <Modified>2018-03-22T16:54:38.040</Modified>
+      <Modified>2018-03-23T15:47:52.114</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.WebModule.dll">
       <PackagePath>UnityEngine.WebModule.dll</PackagePath>
-      <Modified>2018-03-22T16:54:38.058</Modified>
+      <Modified>2018-03-23T15:47:52.133</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.UnityAnalyticsModule.dll">
       <PackagePath>UnityEngine.UnityAnalyticsModule.dll</PackagePath>
-      <Modified>2018-03-22T16:54:38.076</Modified>
+      <Modified>2018-03-23T15:47:52.152</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.UNETModule.dll">
       <PackagePath>UnityEngine.UNETModule.dll</PackagePath>
-      <Modified>2018-03-22T16:54:38.098</Modified>
+      <Modified>2018-03-23T15:47:52.175</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.UIModule.dll">
       <PackagePath>UnityEngine.UIModule.dll</PackagePath>
-      <Modified>2018-03-22T16:54:38.125</Modified>
+      <Modified>2018-03-23T15:47:52.205</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.UnityConnectModule.dll">
       <PackagePath>UnityEngine.UnityConnectModule.dll</PackagePath>
-      <Modified>2018-03-22T16:54:38.142</Modified>
+      <Modified>2018-03-23T15:47:52.226</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.UnityWebRequestTextureModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestTextureModule.dll</PackagePath>
-      <Modified>2018-03-22T16:54:38.157</Modified>
+      <Modified>2018-03-23T15:47:52.243</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.UnityWebRequestModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestModule.dll</PackagePath>
-      <Modified>2018-03-22T16:54:38.172</Modified>
+      <Modified>2018-03-23T15:47:52.261</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.UnityWebRequestAudioModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestAudioModule.dll</PackagePath>
-      <Modified>2018-03-22T16:54:38.191</Modified>
+      <Modified>2018-03-23T15:47:52.281</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.PhysicsModule.dll">
       <PackagePath>UnityEngine.PhysicsModule.dll</PackagePath>
-      <Modified>2018-03-22T16:54:38.210</Modified>
+      <Modified>2018-03-23T15:47:52.306</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.AssetBundleModule.dll">
       <PackagePath>UnityEngine.AssetBundleModule.dll</PackagePath>
-      <Modified>2018-03-22T16:54:38.235</Modified>
+      <Modified>2018-03-23T15:47:52.334</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.ARModule.dll">
       <PackagePath>UnityEngine.ARModule.dll</PackagePath>
-      <Modified>2018-03-22T16:54:38.250</Modified>
+      <Modified>2018-03-23T15:47:52.351</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.AnimationModule.dll">
       <PackagePath>UnityEngine.AnimationModule.dll</PackagePath>
-      <Modified>2018-03-22T16:54:38.276</Modified>
+      <Modified>2018-03-23T15:47:52.379</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.AudioModule.dll">
       <PackagePath>UnityEngine.AudioModule.dll</PackagePath>
-      <Modified>2018-03-22T16:54:38.308</Modified>
+      <Modified>2018-03-23T15:47:52.415</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.CrashReportingModule.dll">
       <PackagePath>UnityEngine.CrashReportingModule.dll</PackagePath>
-      <Modified>2018-03-22T16:54:38.328</Modified>
+      <Modified>2018-03-23T15:47:52.438</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.CoreModule.dll">
       <PackagePath>UnityEngine.CoreModule.dll</PackagePath>
-      <Modified>2018-03-22T16:54:38.590</Modified>
+      <Modified>2018-03-23T15:47:53.271</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.ClothModule.dll">
       <PackagePath>UnityEngine.ClothModule.dll</PackagePath>
-      <Modified>2018-03-22T16:54:38.676</Modified>
+      <Modified>2018-03-23T15:47:53.365</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.AIModule.dll">
       <PackagePath>UnityEngine.AIModule.dll</PackagePath>
-      <Modified>2018-03-22T16:54:38.696</Modified>
+      <Modified>2018-03-23T15:47:53.383</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.AccessibilityModule.dll">
       <PackagePath>UnityEngine.AccessibilityModule.dll</PackagePath>
-      <Modified>2018-03-22T16:54:38.714</Modified>
+      <Modified>2018-03-23T15:47:53.401</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.JSONSerializeModule.dll">
       <PackagePath>UnityEngine.JSONSerializeModule.dll</PackagePath>
-      <Modified>2018-03-22T16:54:38.728</Modified>
+      <Modified>2018-03-23T15:47:53.415</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.InputModule.dll">
       <PackagePath>UnityEngine.InputModule.dll</PackagePath>
-      <Modified>2018-03-22T16:54:38.742</Modified>
+      <Modified>2018-03-23T15:47:53.429</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.ParticlesLegacyModule.dll">
       <PackagePath>UnityEngine.ParticlesLegacyModule.dll</PackagePath>
-      <Modified>2018-03-22T16:54:38.757</Modified>
+      <Modified>2018-03-23T15:47:53.446</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.Physics2DModule.dll">
       <PackagePath>UnityEngine.Physics2DModule.dll</PackagePath>
-      <Modified>2018-03-22T16:54:38.781</Modified>
+      <Modified>2018-03-23T15:47:53.470</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.PerformanceReportingModule.dll">
       <PackagePath>UnityEngine.PerformanceReportingModule.dll</PackagePath>
-      <Modified>2018-03-22T16:54:38.812</Modified>
+      <Modified>2018-03-23T15:47:53.501</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.ParticleSystemModule.dll">
       <PackagePath>UnityEngine.ParticleSystemModule.dll</PackagePath>
-      <Modified>2018-03-22T16:54:38.834</Modified>
+      <Modified>2018-03-23T15:47:53.523</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.GameCenterModule.dll">
       <PackagePath>UnityEngine.GameCenterModule.dll</PackagePath>
-      <Modified>2018-03-22T16:54:38.867</Modified>
+      <Modified>2018-03-23T15:47:53.567</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.dll">
       <PackagePath>UnityEngine.dll</PackagePath>
-      <Modified>2018-03-22T16:52:46.138</Modified>
+      <Modified>2018-03-23T15:45:59.638</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.DirectorModule.dll">
       <PackagePath>UnityEngine.DirectorModule.dll</PackagePath>
-      <Modified>2018-03-22T16:54:38.885</Modified>
+      <Modified>2018-03-23T15:47:53.584</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.GridModule.dll">
       <PackagePath>UnityEngine.GridModule.dll</PackagePath>
-      <Modified>2018-03-22T16:54:38.899</Modified>
+      <Modified>2018-03-23T15:47:53.601</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.IMGUIModule.dll">
       <PackagePath>UnityEngine.IMGUIModule.dll</PackagePath>
-      <Modified>2018-03-22T16:54:38.923</Modified>
+      <Modified>2018-03-23T15:47:53.626</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.ImageConversionModule.dll">
       <PackagePath>UnityEngine.ImageConversionModule.dll</PackagePath>
-      <Modified>2018-03-22T16:54:38.955</Modified>
+      <Modified>2018-03-23T15:47:53.658</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\Newtonsoft.Json.dll">
       <PackagePath>Newtonsoft.Json.dll</PackagePath>
-      <Modified>2018-03-22T16:54:39.020</Modified>
+      <Modified>2018-03-23T15:47:53.712</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.Timeline.dll">
       <PackagePath>UnityEngine.Timeline.dll</PackagePath>
-      <Modified>2018-03-22T16:54:39.172</Modified>
+      <Modified>2018-03-23T15:47:53.781</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\nunit.framework.dll">
       <PackagePath>nunit.framework.dll</PackagePath>
-      <Modified>2018-03-22T16:54:39.257</Modified>
+      <Modified>2018-03-23T15:47:53.844</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.UI.dll">
       <PackagePath>UnityEngine.UI.dll</PackagePath>
-      <Modified>2018-03-22T16:54:39.361</Modified>
+      <Modified>2018-03-23T15:47:53.948</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.SpatialTracking.dll">
       <PackagePath>UnityEngine.SpatialTracking.dll</PackagePath>
-      <Modified>2018-03-22T16:54:39.399</Modified>
+      <Modified>2018-03-23T15:47:53.989</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.Analytics.dll">
       <PackagePath>UnityEngine.Analytics.dll</PackagePath>
-      <Modified>2018-03-22T16:54:39.423</Modified>
+      <Modified>2018-03-23T15:47:54.010</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.HoloLens.dll">
       <PackagePath>UnityEngine.HoloLens.dll</PackagePath>
-      <Modified>2018-03-22T16:54:39.448</Modified>
+      <Modified>2018-03-23T15:47:54.035</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.StandardEvents.dll">
       <PackagePath>UnityEngine.StandardEvents.dll</PackagePath>
-      <Modified>2018-03-22T16:54:39.471</Modified>
+      <Modified>2018-03-23T15:47:54.060</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\UnityEngine.Networking.dll">
       <PackagePath>UnityEngine.Networking.dll</PackagePath>
-      <Modified>2018-03-22T16:54:39.537</Modified>
+      <Modified>2018-03-23T15:47:54.123</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\GLTFSerializationUWP.dll">
       <PackagePath>GLTFSerializationUWP.dll</PackagePath>
-      <Modified>2018-03-22T16:54:39.590</Modified>
+      <Modified>2018-03-23T15:47:54.178</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\Assembly-CSharp.dll">
       <PackagePath>Assembly-CSharp.dll</PackagePath>
-      <Modified>2018-03-22T16:54:37.363</Modified>
+      <Modified>2018-03-23T15:47:51.507</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Unity\RDOHolo\DevHoloTour\App\DevHoloTour\bin\x86\Release\Core\DevHoloTour.exe">
       <PackagePath>DevHoloTour.exe</PackagePath>
-      <Modified>2018-03-22T16:54:45.873</Modified>
+      <Modified>2018-03-23T15:48:00.413</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

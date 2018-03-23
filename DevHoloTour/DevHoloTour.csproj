@@ -928,14 +928,23 @@
     <Compile Include="Assets\HoloToolkit-UnitTests\Input\TestEventHandler.cs" />
     <Compile Include="Assets\HoloToolkit-UnitTests\Utilities\ReflectionTestBehaviour.cs" />
     <Compile Include="Assets\ObjectCollectionBoard.cs" />
+    <Compile Include="Assets\RainMaker\Demo\DemoScript.cs" />
+    <Compile Include="Assets\RainMaker\Demo\DemoScript2D.cs" />
+    <Compile Include="Assets\RainMaker\Demo\DemoScriptStartRainOnSpaceBar.cs" />
+    <Compile Include="Assets\RainMaker\Prefab\BaseRainScript.cs" />
+    <Compile Include="Assets\RainMaker\Prefab\RainCollision.cs" />
+    <Compile Include="Assets\RainMaker\Prefab\RainScript.cs" />
+    <Compile Include="Assets\RainMaker\Prefab\RainScript2D.cs" />
     <Compile Include="Assets\Scripts\AnchorBehavior.cs" />
     <Compile Include="Assets\Scripts\ColorCube.cs" />
     <Compile Include="Assets\Scripts\ColorDicatationService.cs" />
     <Compile Include="Assets\Scripts\GuidingVoiceBehavior.cs" />
     <Compile Include="Assets\Scripts\NameTagCollection.cs" />
     <Compile Include="Assets\Scripts\PointToObjectBehavior.cs" />
+    <Compile Include="Assets\Scripts\RainMakerScript.cs" />
     <Compile Include="Assets\Scripts\RecorderToggleBehavior.cs" />
     <Compile Include="Assets\Scripts\Sphere.cs" />
+    <Compile Include="Assets\Scripts\TouchTestScript.cs" />
     <Compile Include="Assets\Scripts\TractorBehavior.cs" />
     <Compile Include="Assets\Scripts\VoiceCommandManager.cs" />
     <Compile Include="Assets\Scripts\VoiceDisplayBehavior.cs" />
@@ -1003,6 +1012,8 @@
     <None Include="Assets\HoloToolkit\Utilities\Scripts\GLTF\Shaders\GLTFStandard.shader" />
     <None Include="Assets\HoloToolkit\Utilities\Scripts\GLTF\Shaders\GLTFStandardInput.cginc" />
     <None Include="Assets\HoloToolkit\Utilities\Scripts\GLTF\Shaders\GLTFVertexLitCommon.cginc" />
+    <None Include="Assets\RainMaker\Prefab\RainShader.shader" />
+    <None Include="Assets\RainMaker\Readme.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

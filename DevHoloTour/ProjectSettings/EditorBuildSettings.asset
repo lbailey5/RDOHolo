@@ -8,3 +8,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/DevHoloTour.unity
     guid: 1db2f0df0f5e02e4895c078855c5df4c
+  - enabled: 0
+    path: Assets/Scenes/ColtonWorkspace.unity
+    guid: 5d8cfe750dcf2724fa11e469fce7161b

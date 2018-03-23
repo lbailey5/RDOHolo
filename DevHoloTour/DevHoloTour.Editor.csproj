@@ -385,6 +385,7 @@
     <Compile Include="Assets\HoloToolkit-UnitTests\Editor\Utilities\UnityNullConstraint.cs" />
     <Compile Include="Assets\HoloToolkit-UnitTests\Editor\Utilities\UnityNullConstraintTests.cs" />
     <Compile Include="Assets\HoloToolkit-UnitTests\Editor\Utilities\WorldAnchorManagerTests.cs" />
+    <Compile Include="Assets\RainMaker\Editor\RainMakerEditor.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\HoloToolkit-Examples\Medical\Shaders\PlaneCut.cginc" />
@@ -447,6 +448,8 @@
     <None Include="Assets\HoloToolkit\Utilities\Scripts\GLTF\Shaders\GLTFStandard.shader" />
     <None Include="Assets\HoloToolkit\Utilities\Scripts\GLTF\Shaders\GLTFStandardInput.cginc" />
     <None Include="Assets\HoloToolkit\Utilities\Scripts\GLTF\Shaders\GLTFVertexLitCommon.cginc" />
+    <None Include="Assets\RainMaker\Prefab\RainShader.shader" />
+    <None Include="Assets\RainMaker\Readme.txt" />
   </ItemGroup>
   <ItemGroup>
     <Service Include="{82A7F48D-3B50-4B1E-B82E-3ADA8210C358}" />

@@ -5,7 +5,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{855d9325-1f18-431f-861e-b8ed0bf06c48}</ProjectGuid>
+    <ProjectGuid>{cff49c7c-2578-48ec-8a95-9daf0e46aa6c}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>AssemblyCSharpWSA</RootNamespace>
@@ -2290,6 +2290,27 @@
     <Compile Include="$(UnityProjectDir)Assets\ObjectCollectionBoard.cs">
       <Link>ObjectCollectionBoard.cs</Link>
     </Compile>
+    <Compile Include="$(UnityProjectDir)Assets\RainMaker\Demo\DemoScript.cs">
+      <Link>RainMaker\Demo\DemoScript.cs</Link>
+    </Compile>
+    <Compile Include="$(UnityProjectDir)Assets\RainMaker\Demo\DemoScript2D.cs">
+      <Link>RainMaker\Demo\DemoScript2D.cs</Link>
+    </Compile>
+    <Compile Include="$(UnityProjectDir)Assets\RainMaker\Demo\DemoScriptStartRainOnSpaceBar.cs">
+      <Link>RainMaker\Demo\DemoScriptStartRainOnSpaceBar.cs</Link>
+    </Compile>
+    <Compile Include="$(UnityProjectDir)Assets\RainMaker\Prefab\BaseRainScript.cs">
+      <Link>RainMaker\Prefab\BaseRainScript.cs</Link>
+    </Compile>
+    <Compile Include="$(UnityProjectDir)Assets\RainMaker\Prefab\RainCollision.cs">
+      <Link>RainMaker\Prefab\RainCollision.cs</Link>
+    </Compile>
+    <Compile Include="$(UnityProjectDir)Assets\RainMaker\Prefab\RainScript.cs">
+      <Link>RainMaker\Prefab\RainScript.cs</Link>
+    </Compile>
+    <Compile Include="$(UnityProjectDir)Assets\RainMaker\Prefab\RainScript2D.cs">
+      <Link>RainMaker\Prefab\RainScript2D.cs</Link>
+    </Compile>
     <Compile Include="$(UnityProjectDir)Assets\Scripts\AnchorBehavior.cs">
       <Link>Scripts\AnchorBehavior.cs</Link>
     </Compile>
@@ -2302,14 +2323,23 @@
     <Compile Include="$(UnityProjectDir)Assets\Scripts\GuidingVoiceBehavior.cs">
       <Link>Scripts\GuidingVoiceBehavior.cs</Link>
     </Compile>
+    <Compile Include="$(UnityProjectDir)Assets\Scripts\NameTagCollection.cs">
+      <Link>Scripts\NameTagCollection.cs</Link>
+    </Compile>
     <Compile Include="$(UnityProjectDir)Assets\Scripts\PointToObjectBehavior.cs">
       <Link>Scripts\PointToObjectBehavior.cs</Link>
+    </Compile>
+    <Compile Include="$(UnityProjectDir)Assets\Scripts\RainMakerScript.cs">
+      <Link>Scripts\RainMakerScript.cs</Link>
     </Compile>
     <Compile Include="$(UnityProjectDir)Assets\Scripts\RecorderToggleBehavior.cs">
       <Link>Scripts\RecorderToggleBehavior.cs</Link>
     </Compile>
     <Compile Include="$(UnityProjectDir)Assets\Scripts\Sphere.cs">
       <Link>Scripts\Sphere.cs</Link>
+    </Compile>
+    <Compile Include="$(UnityProjectDir)Assets\Scripts\TouchTestScript.cs">
+      <Link>Scripts\TouchTestScript.cs</Link>
     </Compile>
     <Compile Include="$(UnityProjectDir)Assets\Scripts\TractorBehavior.cs">
       <Link>Scripts\TractorBehavior.cs</Link>
